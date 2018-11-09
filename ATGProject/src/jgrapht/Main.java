@@ -8,7 +8,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		try {
-			CSVFile file = CSVReader.read("C:\\Users\\pedro\\Downloads\\ATG - P·gina1.csv");
+			// Workaround para descobrir o endere√ßo do arquivo CSV.
+			String[] vazio = new String[0];
+			GenericSubject g = new GenericSubject(vazio);
+			
+			CSVFile file = CSVReader.read(g.getClass().getClassLoader().getResource("").getPath()+"ATG.csv");
 			ArrayList<GenericSubject> subjects = new ArrayList<GenericSubject>();
 			//System.out.println("======================================================================");
 			int lineSize = 10;

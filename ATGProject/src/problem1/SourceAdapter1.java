@@ -9,7 +9,7 @@ import jgrapht.*;
 
 
 /**
- * Esta classe adapta as informações recebidas na leitura do arquivo CSV de forma a serem usadas na construção do grafo. Isto inclui filtrar as colunas não-relevantes e organizar os vértices como sendo os países, no lugar de serem os usuários.
+ * Esta classe adapta as informacoes recebidas na leitura do arquivo CSV de forma a serem usadas na construcao do grafo. Isto inclui filtrar as colunas nao-relevantes e organizar os vertices como sendo os paises, no lugar de serem os usuï¿½rios.
  * 
  * @author Pedro Falcao
  *
@@ -17,7 +17,12 @@ import jgrapht.*;
 public class SourceAdapter1 {
 	public static Map<String, Integer> instantiate() {
 		try {
-			CSVFile file = CSVReader.read("src\\ATG.csv");
+			// Workaround para descobrir o endereÃ§o do arquivo CSV.
+			String[] vazio = new String[0];
+			GenericSubject g = new GenericSubject(vazio);
+			
+			
+			CSVFile file = CSVReader.read(g.getClass().getClassLoader().getResource("").getPath()+"ATG.csv");
 			ArrayList<GenericSubject> gSubjects = new ArrayList<GenericSubject>();
 			
 			// No arquivo especifico lido, os dados dos usuarios comecam a ser mostrados a partir da decima linha.

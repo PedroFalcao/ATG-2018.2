@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/pedro/Downloads/jgrapht-1.2.0/jgrapht-1.2.0"/>
-	<classpathentry kind="lib" path="C:/Users/pedro/Downloads/jgraph/jgraph/jgraphx.jar"/>
-	<classpathentry kind="lib" path="C:/Users/pedro/Downloads/jgrapht-1.2.0/jgrapht-1.2.0/lib/jgrapht-core-1.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/pedro/Downloads/jgrapht-1.2.0/jgrapht-1.2.0/lib/jgrapht-ext-1.2.0.jar"/>
+	<classpathentry kind="lib" path="src/jgrapht-io-1.2.0.jar"/>
+	<classpathentry kind="lib" path="src/jgraphx.jar"/>
+	<classpathentry kind="lib" path="src/jgrapht-core-1.2.0.jar"/>
+	<classpathentry kind="lib" path="src/jgrapht-ext-1.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

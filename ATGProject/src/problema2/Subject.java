@@ -1,5 +1,11 @@
 package problema2;
 
+/**
+ * Esta classe apenas serve para organizar as informacoes recebidas do arquivo CSV.
+ * 
+ * @author Pedro Falcao
+ *
+ */
 public class Subject {
 	String country;
 	String education;
