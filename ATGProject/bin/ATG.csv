@@ -1,0 +1,102 @@
+Professional,"Country
+In which country do you currently live?","FormalEducation
+Which of the following best describes the highest level of formal education that you've completed?","MajorUndergrad
+Which of the following best describes your main field of study (aka 'major') in college or university/for your undergraduate studies?","DeveloperType
+Which of the following best describe you?","WebDeveloperType
+Which of the following best describes you as a Web developer?","MobileDeveloperType
+For which of the following platforms do you develop mobile applications?","NonDeveloperType
+Which of the following describe you?","CareerSatisfaction
+Career satisfaction rating","JobSatisfaction
+Job satisfaction rating"
+Student,United States,Secondary school,NA,NA,NA,NA,NA,NA,NA
+Student,United Kingdom,Some college/university study without earning a bachelor's degree,Computer science or software engineering,NA,NA,NA,NA,NA,NA
+Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Other,NA,NA,NA,8,9
+Professional non-developer who sometimes writes code,United States,Doctoral degree,A non-computer-focused engineering discipline,NA,NA,NA,Data scientist,6,3
+Professional developer,Switzerland,Master's degree,Computer science or software engineering,Mobile developer; Graphics programming; Desktop applications developer,NA,NA,NA,6,8
+Student,New Zealand,Secondary school,NA,NA,NA,NA,NA,NA,NA
+Professional non-developer who sometimes writes code,United States,Master's degree,A non-computer-focused engineering discipline,NA,NA,NA,Data scientist,7,6
+Professional developer,Poland,Master's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,7
+Professional developer,Colombia,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer,NA,NA,NA,6,6
+Professional developer,France,Master's degree,Computer science or software engineering,Mobile developer; Desktop applications developer,NA,NA,NA,6,8
+Professional non-developer who sometimes writes code,United States,Bachelor's degree,A social science,NA,NA,NA,Other,8,9
+Professional developer,Canada,Bachelor's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,8,6
+Used to be a professional developer,United Kingdom,Bachelor's degree,Mathematics or statistics,NA,NA,NA,NA,3,NA
+Professional developer,Germany,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,6
+Professional developer,United Kingdom,Professional degree,Computer engineering or electrical/electronics engineering,Embedded applications/devices developer,NA,NA,NA,8,8
+Professional developer,United States,Primary/elementary school,NA,Desktop applications developer,NA,NA,NA,8,8
+Professional developer,United Kingdom,Secondary school,NA,Web developer,Full stack Web developer,NA,NA,6,NA
+Professional developer,United States,Bachelor's degree,Computer science or software engineering,Web developer; Embedded applications/devices developer; DevOps specialist; Quality assurance engineer; Other,NA,NA,NA,9,8
+Professional developer,United States,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,5,3
+Professional developer,Greece,Doctoral degree,A natural science,Data scientist; Other,NA,NA,NA,8,8
+Professional developer,Brazil,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,7
+Professional developer,United Kingdom,Bachelor's degree,A natural science,Web developer; Mobile developer; Desktop applications developer; DevOps specialist; Other,NA,NA,NA,8,8
+Professional developer,Israel,Bachelor's degree,Computer engineering or electrical/electronics engineering,Other,NA,NA,NA,8,9
+Professional developer,Italy,Secondary school,NA,Web developer,Full stack Web developer,NA,NA,7,8
+Professional developer,Belgium,Master's degree,Computer science or software engineering,Web developer; Other,NA,NA,NA,7,9
+Professional developer,United States,Master's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,7,7
+Professional developer,India,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer,NA,NA,NA,5,6
+Professional developer,United States,Bachelor's degree,A business discipline,Web developer; Desktop applications developer,NA,NA,NA,9,9
+Professional non-developer who sometimes writes code,Israel,Some college/university study without earning a bachelor's degree,Computer engineering or electrical/electronics engineering,NA,NA,NA,C-suite executive; Product manager,8,7
+Professional non-developer who sometimes writes code,United States,Bachelor's degree,A business discipline,NA,NA,NA,Other,6,6
+Professional developer,Israel,Bachelor's degree,Computer science or software engineering,Web developer; Desktop applications developer,NA,NA,NA,8,7
+Professional developer,Chile,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Desktop applications developer,NA,NA,NA,7,8
+None of these,Germany,Professional degree,Computer science or software engineering,NA,NA,NA,NA,7,NA
+Professional developer,Brazil,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,5
+Professional developer,Croatia,Bachelor's degree,Computer engineering or electrical/electronics engineering,Embedded applications/devices developer,NA,NA,NA,10,8
+Professional developer,Italy,Master's degree,Computer science or software engineering,Machine learning specialist; Developer with a statistics or mathematics background,NA,NA,NA,4,4
+Professional developer,Argentina,Some college/university study without earning a bachelor's degree,Computer programming or Web development,Web developer; Mobile developer; Desktop applications developer,NA,NA,NA,7,9
+Professional developer,Germany,Some college/university study without earning a bachelor's degree,Mathematics or statistics,Web developer,Full stack Web developer,NA,NA,NA,NA
+Professional developer,Netherlands,Bachelor's degree,"Information technology, networking, or system administration",Web developer; Database administrator,NA,NA,NA,8,8
+Professional developer,United States,Some college/university study without earning a bachelor's degree,Computer programming or Web development,Desktop applications developer,NA,NA,NA,9,8
+Professional non-developer who sometimes writes code,United States,Bachelor's degree,Computer engineering or electrical/electronics engineering,NA,NA,NA,Educator or academic,9,9
+Professional developer,Denmark,Master's degree,Computer science or software engineering,Web developer; Database administrator; DevOps specialist,NA,NA,NA,9,8
+Professional developer,Ukraine,Master's degree,Computer programming or Web development,Web developer,Full stack Web developer,NA,NA,10,10
+Student,Croatia,Secondary school,NA,NA,NA,NA,NA,NA,NA
+Professional developer,United States,Bachelor's degree,Computer programming or Web development,Web developer; Developer with a statistics or mathematics background; Desktop applications developer,NA,NA,NA,5,5
+Student,United States,I prefer not to answer,NA,NA,NA,NA,NA,NA,NA
+Used to be a professional developer,United States,Bachelor's degree,Computer science or software engineering,NA,NA,NA,NA,NA,NA
+Professional developer,Sri Lanka,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Desktop applications developer,NA,NA,NA,9,8
+Professional developer,Malaysia,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Systems administrator,NA,NA,NA,10,8
+Professional developer,United States,Bachelor's degree,A business discipline,Web developer; Mobile developer,NA,NA,NA,9,5
+Professional developer,Israel,Bachelor's degree,Computer science or software engineering,Web developer,Front-end Web developer,NA,NA,7,10
+Professional developer,United States,Master's degree,Computer science or software engineering,Web developer; Mobile developer; Embedded applications/devices developer; Desktop applications developer; DevOps specialist,NA,NA,NA,9,6
+Professional developer,Brazil,Bachelor's degree,Computer engineering or electrical/electronics engineering,Web developer; Mobile developer; Quality assurance engineer,NA,NA,NA,6,5
+Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,7
+Professional developer,Germany,Master's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,9,9
+Professional non-developer who sometimes writes code,Finland,I prefer not to answer,NA,NA,NA,NA,Other,5,4
+Student,United States,Some college/university study without earning a bachelor's degree,"Information technology, networking, or system administration",NA,NA,NA,NA,NA,NA
+Professional developer,Italy,Master's degree,Computer science or software engineering,Mobile developer,NA,Android,NA,10,6
+Professional developer,Turkey,Bachelor's degree,Computer programming or Web development,Web developer; Desktop applications developer,NA,NA,NA,3,3
+Professional developer,Poland,Master's degree,Computer engineering or electrical/electronics engineering,Web developer,Back-end Web developer,NA,NA,6,4
+Professional non-developer who sometimes writes code,Canada,Bachelor's degree,Computer engineering or electrical/electronics engineering,NA,NA,NA,Other,7,8
+Professional developer,India,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,5,5
+Professional developer,Ukraine,Master's degree,I never declared a major,Web developer,Back-end Web developer,NA,NA,7,4
+Professional developer,United Kingdom,Master's degree,Something else,Web developer; Mobile developer; Data scientist; Graphic designer; Desktop applications developer; Database administrator; Systems administrator; DevOps specialist,NA,NA,NA,7,NA
+Professional developer,Netherlands,Master's degree,Computer science or software engineering,Desktop applications developer,NA,NA,NA,8,5
+Professional developer,Poland,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,8
+Professional developer,India,Bachelor's degree,Computer science or software engineering,Mobile developer; Graphics programming; Desktop applications developer,NA,NA,NA,7,8
+Professional developer,United States,Bachelor's degree,Computer engineering or electrical/electronics engineering,Embedded applications/devices developer,NA,NA,NA,7,5
+Professional developer,Italy,Secondary school,NA,Web developer; Systems administrator; DevOps specialist,NA,NA,NA,6,7
+Professional developer,Spain,Bachelor's degree,Computer programming or Web development,Web developer,Full stack Web developer,NA,NA,10,8
+Professional developer,United States,Some college/university study without earning a bachelor's degree,"Information technology, networking, or system administration",Web developer,Full stack Web developer,NA,NA,8,5
+Professional developer,Finland,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer; Database administrator; Systems administrator; DevOps specialist; Quality assurance engineer,NA,NA,NA,8,6
+Professional developer,United States,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,5
+Professional developer,Austria,Master's degree,Computer science or software engineering,DevOps specialist; Other,NA,NA,NA,9,8
+Professional developer,Germany,Some college/university study without earning a bachelor's degree,Computer engineering or electrical/electronics engineering,Developer with a statistics or mathematics background,NA,NA,NA,9,9
+Professional developer,France,Master's degree,Mathematics or statistics,Web developer; Mobile developer; Embedded applications/devices developer; Graphics programming; Desktop applications developer; DevOps specialist,NA,NA,NA,6,2
+Professional developer,United States,Some college/university study without earning a bachelor's degree,Computer engineering or electrical/electronics engineering,Web developer,Full stack Web developer,NA,NA,10,8
+Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Web developer; Developer with a statistics or mathematics background,NA,NA,NA,8,8
+Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer,NA,NA,NA,8,8
+Professional developer,United States,Bachelor's degree,"Information technology, networking, or system administration",Web developer; Desktop applications developer; Systems administrator; DevOps specialist,NA,NA,NA,7,6
+Professional developer,Israel,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,10,10
+Professional developer,United States,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,6
+Professional developer,United States,Bachelor's degree,Fine arts or performing arts,Web developer; Mobile developer; Data scientist; Graphic designer; Desktop applications developer; Quality assurance engineer,NA,NA,NA,7,8
+Professional developer,United States,Doctoral degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,6,5
+Professional developer,Mexico,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Database administrator; Systems administrator,NA,NA,NA,10,10
+Professional developer,Poland,Bachelor's degree,A non-computer-focused engineering discipline,Embedded applications/devices developer,NA,NA,NA,7,5
+Professional developer,Germany,Master's degree,Computer science or software engineering,Mobile developer,NA,iOS,NA,5,3
+Student,United Kingdom,Secondary school,NA,NA,NA,NA,NA,NA,NA
+Professional developer,Brazil,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,7,8
+Professional developer,Brazil,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,9,9
+Professional developer,Croatia,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,6
+Professional developer,Germany,Master's degree,Computer science or software engineering,Machine learning specialist; Developer with a statistics or mathematics background; Data scientist,NA,NA,NA,4,NA
