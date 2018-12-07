@@ -7,32 +7,32 @@ package problem1;
  *
  */
 public class Subject {
-	String country;
-	int satisfaction;
+	String denomination;
+	int experience;
 	
-	public Subject(String country, int satisfaction) {
-		this.country = country;
-		this.satisfaction = satisfaction;
+	public Subject(String denomination, int experience) {
+		this.denomination = denomination;
+		this.experience = experience;
 	}
 
-	public String getCountry() {
-		return country;
+	String getDenomination() {
+		return denomination;
 	}
 
-	public void setCountry(String country) {
-		this.country = country;
+	void setDenomination(String denomination) {
+		this.denomination = denomination;
 	}
 
-	public int getSatisfaction() {
-		return satisfaction;
+	int getExperience() {
+		return experience;
 	}
 
-	public void setSatisfaction(int satisfaction) {
-		this.satisfaction = satisfaction;
+	void setExperience(int experience) {
+		this.experience = experience;
 	}
 	
 	public String toString() {
-		return "Country: " + country + "\n" + "Satisfaction with carreer: " + satisfaction + "\n";
+		return "Denomination: " + denomination + "\n" + "Experience in carreer: " + experience + "\n";
 	}
 
 }

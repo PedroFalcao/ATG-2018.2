@@ -14,8 +14,8 @@ public class CSVFile {
 	
 	public CSVFile(ArrayList<String> list) {
 		lines = new ArrayList<String[]>();
-		for (int i = 0; i < list.size(); i++) {
-			lines.add(list.get(i).split(","));
+		for (String s : list) {
+			lines.add(s.split(","));
 		}
 	}
 	

@@ -1,102 +1,1050 @@
-Professional,"Country
-In which country do you currently live?","FormalEducation
-Which of the following best describes the highest level of formal education that you've completed?","MajorUndergrad
-Which of the following best describes your main field of study (aka 'major') in college or university/for your undergraduate studies?","DeveloperType
-Which of the following best describe you?","WebDeveloperType
-Which of the following best describes you as a Web developer?","MobileDeveloperType
-For which of the following platforms do you develop mobile applications?","NonDeveloperType
-Which of the following describe you?","CareerSatisfaction
-Career satisfaction rating","JobSatisfaction
-Job satisfaction rating"
-Student,United States,Secondary school,NA,NA,NA,NA,NA,NA,NA
-Student,United Kingdom,Some college/university study without earning a bachelor's degree,Computer science or software engineering,NA,NA,NA,NA,NA,NA
-Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Other,NA,NA,NA,8,9
-Professional non-developer who sometimes writes code,United States,Doctoral degree,A non-computer-focused engineering discipline,NA,NA,NA,Data scientist,6,3
-Professional developer,Switzerland,Master's degree,Computer science or software engineering,Mobile developer; Graphics programming; Desktop applications developer,NA,NA,NA,6,8
-Student,New Zealand,Secondary school,NA,NA,NA,NA,NA,NA,NA
-Professional non-developer who sometimes writes code,United States,Master's degree,A non-computer-focused engineering discipline,NA,NA,NA,Data scientist,7,6
-Professional developer,Poland,Master's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,7
-Professional developer,Colombia,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer,NA,NA,NA,6,6
-Professional developer,France,Master's degree,Computer science or software engineering,Mobile developer; Desktop applications developer,NA,NA,NA,6,8
-Professional non-developer who sometimes writes code,United States,Bachelor's degree,A social science,NA,NA,NA,Other,8,9
-Professional developer,Canada,Bachelor's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,8,6
-Used to be a professional developer,United Kingdom,Bachelor's degree,Mathematics or statistics,NA,NA,NA,NA,3,NA
-Professional developer,Germany,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,6
-Professional developer,United Kingdom,Professional degree,Computer engineering or electrical/electronics engineering,Embedded applications/devices developer,NA,NA,NA,8,8
-Professional developer,United States,Primary/elementary school,NA,Desktop applications developer,NA,NA,NA,8,8
-Professional developer,United Kingdom,Secondary school,NA,Web developer,Full stack Web developer,NA,NA,6,NA
-Professional developer,United States,Bachelor's degree,Computer science or software engineering,Web developer; Embedded applications/devices developer; DevOps specialist; Quality assurance engineer; Other,NA,NA,NA,9,8
-Professional developer,United States,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,5,3
-Professional developer,Greece,Doctoral degree,A natural science,Data scientist; Other,NA,NA,NA,8,8
-Professional developer,Brazil,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,7
-Professional developer,United Kingdom,Bachelor's degree,A natural science,Web developer; Mobile developer; Desktop applications developer; DevOps specialist; Other,NA,NA,NA,8,8
-Professional developer,Israel,Bachelor's degree,Computer engineering or electrical/electronics engineering,Other,NA,NA,NA,8,9
-Professional developer,Italy,Secondary school,NA,Web developer,Full stack Web developer,NA,NA,7,8
-Professional developer,Belgium,Master's degree,Computer science or software engineering,Web developer; Other,NA,NA,NA,7,9
-Professional developer,United States,Master's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,7,7
-Professional developer,India,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer,NA,NA,NA,5,6
-Professional developer,United States,Bachelor's degree,A business discipline,Web developer; Desktop applications developer,NA,NA,NA,9,9
-Professional non-developer who sometimes writes code,Israel,Some college/university study without earning a bachelor's degree,Computer engineering or electrical/electronics engineering,NA,NA,NA,C-suite executive; Product manager,8,7
-Professional non-developer who sometimes writes code,United States,Bachelor's degree,A business discipline,NA,NA,NA,Other,6,6
-Professional developer,Israel,Bachelor's degree,Computer science or software engineering,Web developer; Desktop applications developer,NA,NA,NA,8,7
-Professional developer,Chile,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Desktop applications developer,NA,NA,NA,7,8
-None of these,Germany,Professional degree,Computer science or software engineering,NA,NA,NA,NA,7,NA
-Professional developer,Brazil,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,5
-Professional developer,Croatia,Bachelor's degree,Computer engineering or electrical/electronics engineering,Embedded applications/devices developer,NA,NA,NA,10,8
-Professional developer,Italy,Master's degree,Computer science or software engineering,Machine learning specialist; Developer with a statistics or mathematics background,NA,NA,NA,4,4
-Professional developer,Argentina,Some college/university study without earning a bachelor's degree,Computer programming or Web development,Web developer; Mobile developer; Desktop applications developer,NA,NA,NA,7,9
-Professional developer,Germany,Some college/university study without earning a bachelor's degree,Mathematics or statistics,Web developer,Full stack Web developer,NA,NA,NA,NA
-Professional developer,Netherlands,Bachelor's degree,"Information technology, networking, or system administration",Web developer; Database administrator,NA,NA,NA,8,8
-Professional developer,United States,Some college/university study without earning a bachelor's degree,Computer programming or Web development,Desktop applications developer,NA,NA,NA,9,8
-Professional non-developer who sometimes writes code,United States,Bachelor's degree,Computer engineering or electrical/electronics engineering,NA,NA,NA,Educator or academic,9,9
-Professional developer,Denmark,Master's degree,Computer science or software engineering,Web developer; Database administrator; DevOps specialist,NA,NA,NA,9,8
-Professional developer,Ukraine,Master's degree,Computer programming or Web development,Web developer,Full stack Web developer,NA,NA,10,10
-Student,Croatia,Secondary school,NA,NA,NA,NA,NA,NA,NA
-Professional developer,United States,Bachelor's degree,Computer programming or Web development,Web developer; Developer with a statistics or mathematics background; Desktop applications developer,NA,NA,NA,5,5
-Student,United States,I prefer not to answer,NA,NA,NA,NA,NA,NA,NA
-Used to be a professional developer,United States,Bachelor's degree,Computer science or software engineering,NA,NA,NA,NA,NA,NA
-Professional developer,Sri Lanka,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Desktop applications developer,NA,NA,NA,9,8
-Professional developer,Malaysia,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Systems administrator,NA,NA,NA,10,8
-Professional developer,United States,Bachelor's degree,A business discipline,Web developer; Mobile developer,NA,NA,NA,9,5
-Professional developer,Israel,Bachelor's degree,Computer science or software engineering,Web developer,Front-end Web developer,NA,NA,7,10
-Professional developer,United States,Master's degree,Computer science or software engineering,Web developer; Mobile developer; Embedded applications/devices developer; Desktop applications developer; DevOps specialist,NA,NA,NA,9,6
-Professional developer,Brazil,Bachelor's degree,Computer engineering or electrical/electronics engineering,Web developer; Mobile developer; Quality assurance engineer,NA,NA,NA,6,5
-Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,7
-Professional developer,Germany,Master's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,9,9
-Professional non-developer who sometimes writes code,Finland,I prefer not to answer,NA,NA,NA,NA,Other,5,4
-Student,United States,Some college/university study without earning a bachelor's degree,"Information technology, networking, or system administration",NA,NA,NA,NA,NA,NA
-Professional developer,Italy,Master's degree,Computer science or software engineering,Mobile developer,NA,Android,NA,10,6
-Professional developer,Turkey,Bachelor's degree,Computer programming or Web development,Web developer; Desktop applications developer,NA,NA,NA,3,3
-Professional developer,Poland,Master's degree,Computer engineering or electrical/electronics engineering,Web developer,Back-end Web developer,NA,NA,6,4
-Professional non-developer who sometimes writes code,Canada,Bachelor's degree,Computer engineering or electrical/electronics engineering,NA,NA,NA,Other,7,8
-Professional developer,India,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,5,5
-Professional developer,Ukraine,Master's degree,I never declared a major,Web developer,Back-end Web developer,NA,NA,7,4
-Professional developer,United Kingdom,Master's degree,Something else,Web developer; Mobile developer; Data scientist; Graphic designer; Desktop applications developer; Database administrator; Systems administrator; DevOps specialist,NA,NA,NA,7,NA
-Professional developer,Netherlands,Master's degree,Computer science or software engineering,Desktop applications developer,NA,NA,NA,8,5
-Professional developer,Poland,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,8
-Professional developer,India,Bachelor's degree,Computer science or software engineering,Mobile developer; Graphics programming; Desktop applications developer,NA,NA,NA,7,8
-Professional developer,United States,Bachelor's degree,Computer engineering or electrical/electronics engineering,Embedded applications/devices developer,NA,NA,NA,7,5
-Professional developer,Italy,Secondary school,NA,Web developer; Systems administrator; DevOps specialist,NA,NA,NA,6,7
-Professional developer,Spain,Bachelor's degree,Computer programming or Web development,Web developer,Full stack Web developer,NA,NA,10,8
-Professional developer,United States,Some college/university study without earning a bachelor's degree,"Information technology, networking, or system administration",Web developer,Full stack Web developer,NA,NA,8,5
-Professional developer,Finland,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer; Database administrator; Systems administrator; DevOps specialist; Quality assurance engineer,NA,NA,NA,8,6
-Professional developer,United States,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,5
-Professional developer,Austria,Master's degree,Computer science or software engineering,DevOps specialist; Other,NA,NA,NA,9,8
-Professional developer,Germany,Some college/university study without earning a bachelor's degree,Computer engineering or electrical/electronics engineering,Developer with a statistics or mathematics background,NA,NA,NA,9,9
-Professional developer,France,Master's degree,Mathematics or statistics,Web developer; Mobile developer; Embedded applications/devices developer; Graphics programming; Desktop applications developer; DevOps specialist,NA,NA,NA,6,2
-Professional developer,United States,Some college/university study without earning a bachelor's degree,Computer engineering or electrical/electronics engineering,Web developer,Full stack Web developer,NA,NA,10,8
-Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Web developer; Developer with a statistics or mathematics background,NA,NA,NA,8,8
-Professional developer,United Kingdom,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer,NA,NA,NA,8,8
-Professional developer,United States,Bachelor's degree,"Information technology, networking, or system administration",Web developer; Desktop applications developer; Systems administrator; DevOps specialist,NA,NA,NA,7,6
-Professional developer,Israel,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,10,10
-Professional developer,United States,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,7,6
-Professional developer,United States,Bachelor's degree,Fine arts or performing arts,Web developer; Mobile developer; Data scientist; Graphic designer; Desktop applications developer; Quality assurance engineer,NA,NA,NA,7,8
-Professional developer,United States,Doctoral degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,6,5
-Professional developer,Mexico,Bachelor's degree,Computer science or software engineering,Web developer; Mobile developer; Database administrator; Systems administrator,NA,NA,NA,10,10
-Professional developer,Poland,Bachelor's degree,A non-computer-focused engineering discipline,Embedded applications/devices developer,NA,NA,NA,7,5
-Professional developer,Germany,Master's degree,Computer science or software engineering,Mobile developer,NA,iOS,NA,5,3
-Student,United Kingdom,Secondary school,NA,NA,NA,NA,NA,NA,NA
-Professional developer,Brazil,Some college/university study without earning a bachelor's degree,Computer science or software engineering,Web developer,Back-end Web developer,NA,NA,7,8
-Professional developer,Brazil,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,9,9
-Professional developer,Croatia,Bachelor's degree,Computer science or software engineering,Web developer,Full stack Web developer,NA,NA,8,6
-Professional developer,Germany,Master's degree,Computer science or software engineering,Machine learning specialist; Developer with a statistics or mathematics background; Data scientist,NA,NA,NA,4,NA
+"String
+Country
+In which country do you currently live?","YearsProgram
+How long has it been since you first learned how to program?","YearsCodedJob
+For how many years have you coded as part of your job?","HaveWorkedLanguage
+Which of the following languages have you done extensive development work in over the past year, and which do you want to work in over the next year?"
+"United States
+22%
+India
+10%
+Other (199)
+68%","20 or more years
+17%
+4 to 5 years
+8%
+Other (20)
+75%","NA
+20%
+1 to 2 years
+10%
+Other (20)
+69%","NA
+29%
+C#; JavaScript; SQL
+2%
+Other (8437)
+69%"
+United States,2 to 3 years,NA,Swift
+United Kingdom,9 to 10 years,NA,JavaScript; Python; Ruby; SQL
+United Kingdom,20 or more years,20 or more years,Java; PHP; Python
+United States,14 to 15 years,9 to 10 years,Matlab; Python; R; SQL
+Switzerland,20 or more years,10 to 11 years,NA
+New Zealand,6 to 7 years,NA,JavaScript; PHP; Rust
+United States,9 to 10 years,8 to 9 years,Matlab; Python
+Poland,10 to 11 years,7 to 8 years,CoffeeScript; Clojure; Elixir; Erlang; Haskell; JavaScript; Python; Ruby
+Colombia,13 to 14 years,7 to 8 years,C#; JavaScript
+France,13 to 14 years,8 to 9 years,Objective-C; Swift
+United States,12 to 13 years,11 to 12 years,R; SQL
+Canada,13 to 14 years,8 to 9 years,NA
+United Kingdom,20 or more years,NA,C; C++; Java
+Germany,15 to 16 years,15 to 16 years,Java; JavaScript; Ruby; SQL
+United Kingdom,20 or more years,20 or more years,Assembly; C; C++
+United States,11 to 12 years,1 to 2 years,JavaScript; VB.NET
+United Kingdom,8 to 9 years,8 to 9 years,JavaScript
+United States,20 or more years,20 or more years,C; Clojure; JavaScript; Matlab; Rust; SQL; Swift
+United States,2 to 3 years,3 to 4 years,NA
+Greece,12 to 13 years,12 to 13 years,Perl; Python
+Brazil,5 to 6 years,Less than a year,NA
+United Kingdom,20 or more years,20 or more years,C#; JavaScript; SQL
+Israel,10 to 11 years,5 to 6 years,Java
+Italy,9 to 10 years,7 to 8 years,PHP; SQL
+Belgium,18 to 19 years,9 to 10 years,NA
+United States,20 or more years,16 to 17 years,Java; Scala
+India,13 to 14 years,9 to 10 years,Java; JavaScript; Objective-C; Python; Swift
+United States,2 to 3 years,Less than a year,NA
+Israel,20 or more years,13 to 14 years,JavaScript; Python
+United States,5 to 6 years,3 to 4 years,NA
+Israel,5 to 6 years,5 to 6 years,NA
+Chile,6 to 7 years,6 to 7 years,NA
+Germany,6 to 7 years,NA,C#; Java
+Brazil,7 to 8 years,6 to 7 years,JavaScript
+Croatia,7 to 8 years,1 to 2 years,Assembly; C
+Italy,9 to 10 years,2 to 3 years,C#; JavaScript; Matlab; Python; R
+Argentina,20 or more years,9 to 10 years,C#; F#; JavaScript; SQL
+Germany,20 or more years,7 to 8 years,C#; Java; JavaScript
+Netherlands,20 or more years,20 or more years,C#; JavaScript; SQL; TypeScript
+United States,20 or more years,5 to 6 years,NA
+United States,20 or more years,20 or more years,C; C++; JavaScript; Lua; Python
+Denmark,20 or more years,17 to 18 years,NA
+Ukraine,5 to 6 years,Less than a year,Java; JavaScript; SQL
+Croatia,1 to 2 years,NA,NA
+United States,20 or more years,10 to 11 years,Java; JavaScript; SQL; VBA
+United States,3 to 4 years,NA,C; C++; Groovy; Java; Python
+United States,9 to 10 years,NA,NA
+Sri Lanka,10 to 11 years,2 to 3 years,C++; C#; Java; JavaScript; Lua; SQL
+Malaysia,8 to 9 years,5 to 6 years,JavaScript; Ruby
+United States,20 or more years,20 or more years,C#; Java; SQL
+Israel,Less than a year,1 to 2 years,JavaScript
+United States,15 to 16 years,7 to 8 years,Assembly; C++; Groovy; Java; Perl; SQL
+Brazil,4 to 5 years,1 to 2 years,Java; JavaScript; PHP; Ruby
+United Kingdom,20 or more years,20 or more years,Java; JavaScript
+Germany,8 to 9 years,4 to 5 years,Java; JavaScript; PHP
+Finland,2 to 3 years,2 to 3 years,Java; JavaScript; PHP; SQL; VB.NET
+United States,3 to 4 years,NA,C#
+Italy,11 to 12 years,4 to 5 years,Go; Java
+Turkey,12 to 13 years,10 to 11 years,C#; JavaScript; SQL
+Poland,14 to 15 years,9 to 10 years,NA
+Canada,20 or more years,20 or more years,C#
+India,3 to 4 years,1 to 2 years,C#; JavaScript; SQL
+Ukraine,20 or more years,16 to 17 years,PHP
+United Kingdom,9 to 10 years,2 to 3 years,C++; C#; Java; JavaScript; Python; Ruby; SQL; Swift; VBA
+Netherlands,11 to 12 years,4 to 5 years,C; C++; C#; Java; JavaScript; Matlab; SQL
+Poland,5 to 6 years,2 to 3 years,JavaScript
+India,11 to 12 years,8 to 9 years,C++; C#; Objective-C
+United States,20 or more years,20 or more years,C; C++; Python; SQL
+Italy,20 or more years,16 to 17 years,CoffeeScript; JavaScript; Ruby; SQL
+Spain,9 to 10 years,4 to 5 years,NA
+United States,2 to 3 years,1 to 2 years,CoffeeScript; JavaScript; Ruby
+Finland,8 to 9 years,5 to 6 years,JavaScript; PHP; Python; SQL
+United States,20 or more years,20 or more years,C#; JavaScript; SQL
+Austria,14 to 15 years,12 to 13 years,Elixir; Java; JavaScript; SQL
+Germany,3 to 4 years,2 to 3 years,NA
+France,20 or more years,16 to 17 years,Assembly; C; C++; Java; JavaScript; Perl; Python; Ruby; SQL; TypeScript
+United States,20 or more years,20 or more years,C#; JavaScript
+United Kingdom,6 to 7 years,2 to 3 years,NA
+United Kingdom,4 to 5 years,1 to 2 years,NA
+United States,20 or more years,14 to 15 years,NA
+Israel,2 to 3 years,2 to 3 years,C#; JavaScript; PHP; Python; SQL; TypeScript; VB.NET
+United States,17 to 18 years,13 to 14 years,Java; SQL
+United States,20 or more years,18 to 19 years,C++; C#; JavaScript; SQL
+United States,20 or more years,NA,C; C++; Java; JavaScript
+Mexico,12 to 13 years,NA,NA
+Poland,9 to 10 years,2 to 3 years,NA
+Germany,13 to 14 years,10 to 11 years,NA
+United Kingdom,6 to 7 years,NA,NA
+Brazil,8 to 9 years,4 to 5 years,Java; PHP; Python; Ruby; SQL
+Brazil,11 to 12 years,11 to 12 years,JavaScript; Scala
+Croatia,4 to 5 years,3 to 4 years,C; JavaScript; Python
+Germany,20 or more years,10 to 11 years,CoffeeScript; Haskell; JavaScript; Python; SQL
+United States,20 or more years,15 to 16 years,NA
+Poland,6 to 7 years,3 to 4 years,C#
+India,3 to 4 years,1 to 2 years,C; C#; SQL
+Germany,9 to 10 years,4 to 5 years,JavaScript; Ruby; Smalltalk
+United States,4 to 5 years,1 to 2 years,C#; JavaScript; SQL; VB.NET; Visual Basic 6
+Turkey,14 to 15 years,4 to 5 years,C#; JavaScript; TypeScript
+United States,3 to 4 years,NA,NA
+United States,20 or more years,7 to 8 years,C; Go; Objective-C; Ruby; Swift
+Russian Federation,20 or more years,20 or more years,Java; Scala
+Turkey,15 to 16 years,NA,NA
+Germany,20 or more years,17 to 18 years,C++; C#
+United States,1 to 2 years,1 to 2 years,Python
+Brazil,14 to 15 years,12 to 13 years,Java; VB.NET; Visual Basic 6
+United Kingdom,10 to 11 years,4 to 5 years,C; C#; Common Lisp; Clojure; Java; JavaScript; PHP; Python; SQL
+United Kingdom,20 or more years,20 or more years,C#; Go; SQL
+India,2 to 3 years,Less than a year,C; Python
+United Kingdom,9 to 10 years,4 to 5 years,C#
+United States,20 or more years,2 to 3 years,JavaScript; Python; Ruby; SQL
+United Kingdom,1 to 2 years,1 to 2 years,CoffeeScript; JavaScript; Ruby
+Mexico,16 to 17 years,5 to 6 years,C; C++; JavaScript; Perl
+India,11 to 12 years,3 to 4 years,Java; SQL
+United Kingdom,5 to 6 years,1 to 2 years,C++; C#
+Bulgaria,2 to 3 years,NA,C#
+United States,20 or more years,10 to 11 years,C#; JavaScript
+Spain,20 or more years,20 or more years,Java; JavaScript; SQL
+United Kingdom,3 to 4 years,NA,VB.NET
+United States,4 to 5 years,4 to 5 years,CoffeeScript; JavaScript; Objective-C; PHP; Python; Ruby; SQL; Swift
+United States,14 to 15 years,2 to 3 years,NA
+Argentina,11 to 12 years,9 to 10 years,NA
+Uruguay,5 to 6 years,2 to 3 years,C#; Java; JavaScript; Python; SQL; TypeScript
+Italy,20 or more years,20 or more years,C#; JavaScript; PHP; SQL
+United States,11 to 12 years,4 to 5 years,C#; SQL
+Denmark,5 to 6 years,NA,Java; JavaScript; Lua; PHP; R; SQL
+United States,20 or more years,9 to 10 years,C++; C#; Java
+Estonia,14 to 15 years,5 to 6 years,C#; Java; JavaScript; Python; SQL
+United States,18 to 19 years,17 to 18 years,NA
+Iran,8 to 9 years,2 to 3 years,NA
+Turkey,17 to 18 years,11 to 12 years,NA
+Bangladesh,4 to 5 years,2 to 3 years,C#; JavaScript; Matlab; PHP; SQL
+United States,18 to 19 years,8 to 9 years,C++
+Finland,12 to 13 years,7 to 8 years,CoffeeScript; JavaScript; PHP; Python; SQL
+India,5 to 6 years,Less than a year,C++; Java; JavaScript; Matlab; Objective-C; Python; SQL
+United States,17 to 18 years,14 to 15 years,C#; JavaScript; PHP; SQL
+United Kingdom,2 to 3 years,2 to 3 years,Ruby
+United States,20 or more years,20 or more years,C#; JavaScript; SQL; TypeScript
+India,3 to 4 years,4 to 5 years,NA
+Sweden,10 to 11 years,2 to 3 years,NA
+Sweden,5 to 6 years,1 to 2 years,NA
+Brazil,8 to 9 years,4 to 5 years,NA
+United Kingdom,1 to 2 years,NA,NA
+Lithuania,19 to 20 years,9 to 10 years,C; C#; JavaScript
+United Kingdom,12 to 13 years,1 to 2 years,C++; C#; F#; Haskell; Python; SQL
+Ukraine,9 to 10 years,4 to 5 years,NA
+Croatia,5 to 6 years,4 to 5 years,NA
+Denmark,4 to 5 years,2 to 3 years,C#; Java; JavaScript; Python; Scala; SQL; VBA
+Chile,7 to 8 years,NA,NA
+Lithuania,9 to 10 years,2 to 3 years,SQL
+United Kingdom,20 or more years,20 or more years,C; C++; C#; F#; Haskell; Java; Swift
+Sri Lanka,9 to 10 years,2 to 3 years,NA
+Paraguay,2 to 3 years,NA,NA
+Israel,18 to 19 years,15 to 16 years,NA
+United Kingdom,6 to 7 years,6 to 7 years,Python
+United States,20 or more years,2 to 3 years,Matlab; VBA
+United States,12 to 13 years,10 to 11 years,Java; JavaScript; Perl; SQL
+United States,10 to 11 years,5 to 6 years,Java; JavaScript; TypeScript
+United States,20 or more years,15 to 16 years,C#; JavaScript; SQL
+France,18 to 19 years,10 to 11 years,JavaScript; PHP; Ruby; SQL
+United States,18 to 19 years,8 to 9 years,JavaScript; Python
+United States,20 or more years,20 or more years,NA
+United States,13 to 14 years,6 to 7 years,C; C++; Python
+Israel,6 to 7 years,3 to 4 years,C#; Java; JavaScript; Python; Ruby; Scala; SQL
+Brazil,9 to 10 years,6 to 7 years,NA
+India,5 to 6 years,5 to 6 years,NA
+Germany,13 to 14 years,8 to 9 years,Go; JavaScript
+United States,20 or more years,16 to 17 years,Java; PHP; Python; Ruby; SQL
+United States,20 or more years,20 or more years,JavaScript; Scala
+Israel,12 to 13 years,11 to 12 years,C#; Java; JavaScript; Python; Scala; SQL; TypeScript
+United States,14 to 15 years,14 to 15 years,JavaScript; PHP; SQL
+Greece,12 to 13 years,5 to 6 years,Java; JavaScript; Perl; PHP; Python; SQL
+Sweden,7 to 8 years,Less than a year,NA
+United States,14 to 15 years,9 to 10 years,Go; JavaScript; SQL
+Ukraine,6 to 7 years,4 to 5 years,Elixir; Java; JavaScript; PHP; SQL
+United States,14 to 15 years,10 to 11 years,Common Lisp; Java; JavaScript
+United States,20 or more years,18 to 19 years,C; C#; JavaScript; Python; SQL
+United States,7 to 8 years,3 to 4 years,C#; Objective-C; Swift
+United States,10 to 11 years,4 to 5 years,C#; Java; JavaScript; PHP; Ruby; SQL; Swift
+India,3 to 4 years,NA,C; Java; JavaScript; PHP; Python
+Israel,14 to 15 years,11 to 12 years,JavaScript; Python
+Russian Federation,10 to 11 years,6 to 7 years,JavaScript; TypeScript
+United Kingdom,5 to 6 years,Less than a year,C++; C#; Perl
+United Kingdom,20 or more years,14 to 15 years,JavaScript
+India,4 to 5 years,1 to 2 years,Java; SQL
+Sweden,12 to 13 years,5 to 6 years,CoffeeScript; JavaScript; PHP; SQL
+United States,20 or more years,11 to 12 years,C#; F#; Go; JavaScript; Scala; SQL; VBA
+United States,14 to 15 years,NA,NA
+Canada,5 to 6 years,3 to 4 years,NA
+Canada,3 to 4 years,NA,NA
+United Kingdom,4 to 5 years,Less than a year,Objective-C; Swift
+Finland,20 or more years,17 to 18 years,Java; JavaScript; Python; SQL
+Germany,8 to 9 years,1 to 2 years,Java; JavaScript; PHP
+Canada,16 to 17 years,10 to 11 years,CoffeeScript; Elixir; JavaScript; Ruby; SQL
+United States,10 to 11 years,10 to 11 years,JavaScript
+United States,11 to 12 years,5 to 6 years,NA
+United States,9 to 10 years,7 to 8 years,C#; JavaScript
+Romania,2 to 3 years,NA,C++; Java; JavaScript
+United States,20 or more years,NA,C#; JavaScript; SQL
+United States,20 or more years,15 to 16 years,C++; Java; Objective-C; Perl; Python
+France,7 to 8 years,4 to 5 years,NA
+Austria,6 to 7 years,4 to 5 years,NA
+Spain,11 to 12 years,4 to 5 years,NA
+Poland,3 to 4 years,Less than a year,NA
+France,6 to 7 years,1 to 2 years,NA
+Argentina,7 to 8 years,4 to 5 years,NA
+Italy,3 to 4 years,NA,NA
+Canada,14 to 15 years,9 to 10 years,Groovy; Java; JavaScript; SQL
+United States,20 or more years,20 or more years,C; Java; JavaScript; Perl; Python; SQL
+United States,12 to 13 years,8 to 9 years,NA
+Canada,15 to 16 years,8 to 9 years,C#; JavaScript; SQL
+United States,3 to 4 years,NA,C#; Java; JavaScript; Perl; Python; SQL
+Poland,1 to 2 years,Less than a year,C#; JavaScript; SQL
+Netherlands,8 to 9 years,5 to 6 years,JavaScript; PHP; SQL
+United States,5 to 6 years,NA,NA
+Germany,10 to 11 years,4 to 5 years,Python
+India,4 to 5 years,Less than a year,Go; JavaScript; Python; Ruby
+United States,20 or more years,15 to 16 years,C#; SQL
+Costa Rica,13 to 14 years,10 to 11 years,NA
+India,15 to 16 years,10 to 11 years,C#; JavaScript; SQL; VBA
+United States,2 to 3 years,2 to 3 years,NA
+United States,20 or more years,20 or more years,CoffeeScript; JavaScript; Python
+Serbia,20 or more years,7 to 8 years,C#
+Slovenia,20 or more years,19 to 20 years,C#; Java; SQL
+United States,17 to 18 years,11 to 12 years,C#; JavaScript; SQL; TypeScript
+Uruguay,20 or more years,8 to 9 years,C#; JavaScript; Python; SQL
+Poland,7 to 8 years,4 to 5 years,Groovy; Java; JavaScript; SQL
+Germany,6 to 7 years,6 to 7 years,NA
+Italy,15 to 16 years,6 to 7 years,NA
+Costa Rica,3 to 4 years,NA,C#; Java; JavaScript; SQL
+Poland,8 to 9 years,5 to 6 years,C++
+United States,20 or more years,20 or more years,Java; JavaScript; Python; Scala; Swift
+United Arab Emirates,17 to 18 years,12 to 13 years,NA
+Netherlands,12 to 13 years,10 to 11 years,Go; Java; JavaScript; Python; Ruby; Rust; SQL; TypeScript
+Canada,3 to 4 years,4 to 5 years,NA
+United States,18 to 19 years,6 to 7 years,C#; Dart; JavaScript
+United States,10 to 11 years,6 to 7 years,C; VB.NET
+Tunisia,9 to 10 years,7 to 8 years,NA
+United States,8 to 9 years,5 to 6 years,C#; JavaScript; SQL
+United States,20 or more years,15 to 16 years,SQL
+Argentina,13 to 14 years,9 to 10 years,NA
+India,4 to 5 years,3 to 4 years,NA
+United States,9 to 10 years,6 to 7 years,C++; Matlab; Python; R; VBA
+Israel,2 to 3 years,Less than a year,Assembly; C; C++; Common Lisp; Java; JavaScript; Perl; Python; SQL
+India,2 to 3 years,2 to 3 years,NA
+Kenya,1 to 2 years,NA,NA
+Poland,10 to 11 years,3 to 4 years,NA
+Argentina,15 to 16 years,9 to 10 years,JavaScript; PHP; Python; SQL
+Greece,6 to 7 years,3 to 4 years,C++
+United States,14 to 15 years,8 to 9 years,NA
+United States,5 to 6 years,2 to 3 years,C#; Java; JavaScript; Perl; SQL
+Brazil,12 to 13 years,9 to 10 years,Java
+Tunisia,5 to 6 years,NA,NA
+Canada,12 to 13 years,9 to 10 years,Objective-C; Swift
+Serbia,5 to 6 years,1 to 2 years,C#
+India,3 to 4 years,1 to 2 years,C; C++; Java; JavaScript; PHP; Python; SQL
+United States,19 to 20 years,12 to 13 years,JavaScript; Python; SQL
+Canada,9 to 10 years,4 to 5 years,Java; Lua; Python
+Netherlands,9 to 10 years,Less than a year,Assembly; C; C++; JavaScript
+United States,20 or more years,20 or more years,Assembly; C; C++; C#; SQL; Swift
+India,4 to 5 years,NA,NA
+United Kingdom,20 or more years,17 to 18 years,C#; JavaScript; SQL; VBA
+Canada,14 to 15 years,9 to 10 years,NA
+El Salvador,7 to 8 years,4 to 5 years,NA
+India,5 to 6 years,4 to 5 years,NA
+Costa Rica,7 to 8 years,6 to 7 years,Java; JavaScript; Perl; SQL
+United Kingdom,5 to 6 years,2 to 3 years,C; C++; C#; CoffeeScript; Haskell; JavaScript; Python; Ruby; Rust; SQL; TypeScript
+United States,13 to 14 years,NA,Assembly; C; C++; C#; Go; Java; JavaScript; Lua; Python; Rust
+United States,15 to 16 years,8 to 9 years,C#; JavaScript
+France,18 to 19 years,10 to 11 years,NA
+India,3 to 4 years,1 to 2 years,NA
+Norway,20 or more years,20 or more years,NA
+Malaysia,5 to 6 years,NA,C++; C#; Java; JavaScript; Lua; PHP; Python; SQL; VB.NET
+United States,20 or more years,20 or more years,C++; Objective-C
+Italy,14 to 15 years,8 to 9 years,Java; JavaScript
+United States,20 or more years,18 to 19 years,JavaScript; SQL; TypeScript
+Canada,20 or more years,17 to 18 years,C++; Python
+United Kingdom,20 or more years,20 or more years,C++; C#
+Bulgaria,1 to 2 years,1 to 2 years,NA
+Dominican Republic,1 to 2 years,NA,C#; SQL
+Iran,13 to 14 years,6 to 7 years,Go; Groovy; Java; JavaScript; Python; Ruby; Scala; SQL
+United States,20 or more years,14 to 15 years,Java; PHP
+United Kingdom,18 to 19 years,10 to 11 years,C#; JavaScript; SQL
+Israel,17 to 18 years,11 to 12 years,JavaScript
+India,3 to 4 years,2 to 3 years,Assembly; Java; JavaScript; PHP; SQL
+India,9 to 10 years,3 to 4 years,Java; JavaScript; PHP; Python
+India,10 to 11 years,8 to 9 years,C#; Java; JavaScript; SQL
+India,6 to 7 years,6 to 7 years,C#; JavaScript; PHP; SQL
+United States,2 to 3 years,2 to 3 years,SQL
+India,Less than a year,1 to 2 years,C; C++; JavaScript; Python
+Sweden,5 to 6 years,NA,Assembly; C; Erlang; Go; Java; Python
+Poland,9 to 10 years,6 to 7 years,Java; JavaScript; PHP; Python; SQL
+United States,6 to 7 years,4 to 5 years,Objective-C; Python; Ruby; SQL; Swift
+United States,5 to 6 years,NA,C#; CoffeeScript; JavaScript; PHP; SQL; TypeScript
+Poland,10 to 11 years,8 to 9 years,NA
+Serbia,4 to 5 years,NA,Assembly; C; C++; C#; Java; Matlab; Python
+Israel,4 to 5 years,1 to 2 years,C++; C#; Objective-C
+Canada,3 to 4 years,NA,C#; Java; JavaScript; VB.NET
+Dominican Republic,6 to 7 years,NA,Python; R; Ruby; SQL
+Chile,6 to 7 years,6 to 7 years,C; Java; JavaScript; Lua; PHP; SQL; VBA; Visual Basic 6
+Argentina,5 to 6 years,2 to 3 years,JavaScript; PHP
+Canada,18 to 19 years,9 to 10 years,C#; JavaScript; Ruby; SQL
+Spain,13 to 14 years,3 to 4 years,NA
+India,6 to 7 years,NA,NA
+United States,3 to 4 years,Less than a year,JavaScript; PHP; Python
+Germany,8 to 9 years,2 to 3 years,Scala
+United States,16 to 17 years,8 to 9 years,JavaScript; Python
+Ukraine,14 to 15 years,10 to 11 years,C#; JavaScript; SQL
+Germany,5 to 6 years,NA,Assembly; C++; Matlab; Python
+Israel,11 to 12 years,3 to 4 years,Ruby
+France,17 to 18 years,NA,JavaScript; Python
+United Kingdom,20 or more years,20 or more years,C#; JavaScript; PHP; SQL; TypeScript; VB.NET
+Romania,20 or more years,9 to 10 years,NA
+United States,16 to 17 years,13 to 14 years,PHP
+United Kingdom,20 or more years,7 to 8 years,Python
+Netherlands,14 to 15 years,11 to 12 years,JavaScript; PHP; SQL
+United States,20 or more years,9 to 10 years,CoffeeScript; JavaScript; Ruby
+Argentina,8 to 9 years,7 to 8 years,Erlang; F#; Java
+Poland,20 or more years,18 to 19 years,C#; SQL
+United States,4 to 5 years,NA,C#; Java; JavaScript; Objective-C; SQL
+Argentina,6 to 7 years,2 to 3 years,NA
+Canada,3 to 4 years,Less than a year,C; C++; C#; Python
+India,4 to 5 years,2 to 3 years,NA
+Iran,7 to 8 years,5 to 6 years,Java; Matlab; Python; SQL
+Slovenia,3 to 4 years,2 to 3 years,Java; JavaScript; SQL
+United States,9 to 10 years,7 to 8 years,C#; Go; JavaScript; Lua; SQL; TypeScript
+Germany,10 to 11 years,NA,NA
+Russian Federation,13 to 14 years,3 to 4 years,Groovy; Java; JavaScript; SQL
+Chile,7 to 8 years,7 to 8 years,C#; Objective-C; Swift
+Germany,8 to 9 years,5 to 6 years,C++; JavaScript; Python; Ruby; Scala; SQL
+United Kingdom,20 or more years,20 or more years,C++; C#
+United States,20 or more years,3 to 4 years,C++; Objective-C; PHP; Swift
+El Salvador,2 to 3 years,2 to 3 years,Java; JavaScript; SQL
+United States,20 or more years,19 to 20 years,NA
+Belarus,16 to 17 years,9 to 10 years,NA
+Spain,9 to 10 years,7 to 8 years,JavaScript; PHP; SQL
+United Kingdom,20 or more years,8 to 9 years,Go; Python; Ruby
+India,2 to 3 years,1 to 2 years,C++; Java; Python
+Poland,6 to 7 years,2 to 3 years,NA
+Denmark,2 to 3 years,2 to 3 years,Java; JavaScript; SQL
+Italy,13 to 14 years,3 to 4 years,NA
+Germany,14 to 15 years,5 to 6 years,C; C#; Groovy; Java; JavaScript; Ruby; Scala; SQL; TypeScript; VBA
+United States,5 to 6 years,NA,Java; Python; R; SQL
+Argentina,2 to 3 years,5 to 6 years,CoffeeScript; Elixir; JavaScript; PHP; Python; Ruby; SQL; TypeScript
+Israel,10 to 11 years,NA,Java
+Germany,8 to 9 years,NA,CoffeeScript; Java; JavaScript; Swift
+Finland,20 or more years,20 or more years,C#; Java; JavaScript; SQL; TypeScript
+United States,2 to 3 years,2 to 3 years,NA
+United States,9 to 10 years,4 to 5 years,Swift
+India,17 to 18 years,7 to 8 years,NA
+United States,13 to 14 years,2 to 3 years,C#; JavaScript; SQL
+United States,20 or more years,19 to 20 years,C#; Java; JavaScript; Python; SQL; VBA
+Portugal,14 to 15 years,NA,C++; Java; JavaScript; Python; TypeScript
+Israel,16 to 17 years,13 to 14 years,Groovy; Java; Python; Scala; SQL
+United States,4 to 5 years,Less than a year,NA
+Germany,7 to 8 years,NA,NA
+Sweden,20 or more years,19 to 20 years,JavaScript
+Israel,17 to 18 years,5 to 6 years,NA
+United Kingdom,8 to 9 years,6 to 7 years,C#; JavaScript
+Czech Republic,20 or more years,9 to 10 years,NA
+United States,3 to 4 years,Less than a year,C#; JavaScript; Python; SQL
+Canada,9 to 10 years,2 to 3 years,Java; JavaScript; Python
+Costa Rica,5 to 6 years,2 to 3 years,NA
+Netherlands,9 to 10 years,3 to 4 years,C++; C#; Rust; SQL
+United States,17 to 18 years,14 to 15 years,C; C++; Java; JavaScript; Objective-C; PHP; Scala; SQL; Swift
+United States,11 to 12 years,8 to 9 years,C; C++; C#; Go; JavaScript; TypeScript
+Germany,13 to 14 years,6 to 7 years,C; Python
+United States,12 to 13 years,5 to 6 years,C#; F#
+United States,9 to 10 years,6 to 7 years,NA
+Argentina,20 or more years,14 to 15 years,NA
+United States,20 or more years,NA,NA
+Mexico,3 to 4 years,1 to 2 years,C#; JavaScript; SQL
+United States,11 to 12 years,7 to 8 years,Java; SQL
+Poland,20 or more years,14 to 15 years,C; Common Lisp; JavaScript; PHP; Python; SQL
+United States,20 or more years,20 or more years,C#; JavaScript; SQL
+United States,10 to 11 years,7 to 8 years,C#; JavaScript; Python
+United Kingdom,6 to 7 years,NA,NA
+United States,14 to 15 years,6 to 7 years,JavaScript
+Portugal,17 to 18 years,10 to 11 years,NA
+United States,9 to 10 years,1 to 2 years,CoffeeScript; Haskell; Java; JavaScript; Ruby; Scala; SQL
+United Kingdom,6 to 7 years,4 to 5 years,NA
+United States,5 to 6 years,2 to 3 years,C#; JavaScript; PHP; Python; SQL; VB.NET
+Finland,7 to 8 years,NA,NA
+Bangladesh,2 to 3 years,1 to 2 years,NA
+United States,20 or more years,20 or more years,NA
+United Kingdom,5 to 6 years,3 to 4 years,NA
+United States,6 to 7 years,4 to 5 years,JavaScript; PHP; SQL
+Germany,10 to 11 years,2 to 3 years,C#; Java; Python; SQL
+United States,20 or more years,20 or more years,Java
+Israel,20 or more years,15 to 16 years,C; C++; Java; JavaScript; TypeScript
+Germany,6 to 7 years,2 to 3 years,NA
+Albania,4 to 5 years,4 to 5 years,C#; JavaScript; PHP; SQL
+United States,13 to 14 years,11 to 12 years,C#; JavaScript; Perl; Swift
+I prefer not to say,NA,NA,NA
+Brazil,12 to 13 years,9 to 10 years,NA
+United States,14 to 15 years,10 to 11 years,Java; JavaScript; PHP; SQL; VBA; Visual Basic 6
+South Africa,4 to 5 years,2 to 3 years,C#; JavaScript; TypeScript
+Canada,9 to 10 years,4 to 5 years,Java; JavaScript; SQL
+Switzerland,9 to 10 years,4 to 5 years,C#; JavaScript; SQL
+Sweden,20 or more years,2 to 3 years,C++; C#; F#; JavaScript; SQL
+Brazil,7 to 8 years,2 to 3 years,C; C++; SQL
+United States,8 to 9 years,1 to 2 years,Ruby
+United States,10 to 11 years,3 to 4 years,Objective-C; Python
+Netherlands,15 to 16 years,7 to 8 years,JavaScript; Perl
+United States,9 to 10 years,NA,NA
+United Kingdom,1 to 2 years,NA,NA
+United States,14 to 15 years,8 to 9 years,C++; C#; JavaScript; PHP; SQL; VB.NET; VBA
+United States,20 or more years,20 or more years,C++; C#; SQL
+New Zealand,20 or more years,20 or more years,C#
+Russian Federation,19 to 20 years,9 to 10 years,C#; Python; SQL
+Canada,3 to 4 years,NA,NA
+United States,20 or more years,5 to 6 years,JavaScript; PHP; SQL
+Israel,3 to 4 years,NA,NA
+Brazil,12 to 13 years,9 to 10 years,Groovy; PHP
+United States,10 to 11 years,4 to 5 years,NA
+Finland,10 to 11 years,NA,C; C#; PHP; SQL
+Serbia,5 to 6 years,1 to 2 years,NA
+Norway,2 to 3 years,NA,NA
+India,8 to 9 years,NA,Assembly; C; C++; JavaScript; Matlab; Python
+Germany,6 to 7 years,3 to 4 years,Java; JavaScript; SQL
+Germany,20 or more years,15 to 16 years,C#; JavaScript; PHP; SQL
+Uzbekistan,1 to 2 years,1 to 2 years,JavaScript; Python; SQL
+Poland,8 to 9 years,NA,NA
+Germany,17 to 18 years,8 to 9 years,C#
+United States,19 to 20 years,10 to 11 years,NA
+Germany,13 to 14 years,5 to 6 years,NA
+United Kingdom,20 or more years,17 to 18 years,Java; Scala
+United States,12 to 13 years,2 to 3 years,C#; SQL; Visual Basic 6
+Albania,2 to 3 years,2 to 3 years,NA
+United Kingdom,20 or more years,NA,Java
+United States,20 or more years,8 to 9 years,C; JavaScript; SQL
+United States,10 to 11 years,Less than a year,C; C++; Lua
+United States,20 or more years,20 or more years,Groovy; Java; JavaScript; SQL
+United Kingdom,6 to 7 years,NA,Assembly; C; Java; Matlab; Python
+United States,20 or more years,13 to 14 years,C#; SQL
+France,6 to 7 years,NA,Assembly; C; C++; Java; Objective-C; PHP; Python; SQL
+India,4 to 5 years,NA,C++; JavaScript; Python
+Canada,20 or more years,16 to 17 years,C++; C#; JavaScript; SQL
+Brazil,14 to 15 years,11 to 12 years,Java; JavaScript
+United States,20 or more years,17 to 18 years,Java; JavaScript; SQL
+United States,20 or more years,17 to 18 years,C; Java; JavaScript; Perl; Python; SQL
+United Kingdom,9 to 10 years,NA,C++; Haskell; Python
+Moldavia,7 to 8 years,NA,Assembly; C; C++; C#; Java; JavaScript; PHP; Python; Scala; SQL
+United States,2 to 3 years,2 to 3 years,NA
+Canada,20 or more years,20 or more years,Java; JavaScript; SQL
+Austria,15 to 16 years,10 to 11 years,Java; JavaScript; SQL
+Netherlands,4 to 5 years,2 to 3 years,NA
+India,3 to 4 years,2 to 3 years,C#; JavaScript
+United Kingdom,20 or more years,14 to 15 years,C; C++; C#
+Romania,20 or more years,12 to 13 years,C#
+United States,16 to 17 years,8 to 9 years,Go; JavaScript; Ruby
+United States,20 or more years,17 to 18 years,C; C++; C#; Java; Lua; Python; SQL
+United States,20 or more years,3 to 4 years,Go
+Canada,4 to 5 years,Less than a year,JavaScript; PHP; SQL
+United States,3 to 4 years,NA,Assembly; C#; Java; Python; Ruby
+India,5 to 6 years,2 to 3 years,PHP
+Serbia,15 to 16 years,11 to 12 years,NA
+Brazil,6 to 7 years,NA,NA
+United States,20 or more years,3 to 4 years,C; C++; Java; Python
+United States,7 to 8 years,3 to 4 years,Java; JavaScript; Matlab; PHP; SQL; VB.NET; VBA; Visual Basic 6
+Brazil,15 to 16 years,6 to 7 years,NA
+Norway,15 to 16 years,9 to 10 years,C#; JavaScript; SQL; TypeScript; VB.NET; VBA
+Russian Federation,16 to 17 years,7 to 8 years,Python
+United States,13 to 14 years,8 to 9 years,NA
+Israel,20 or more years,13 to 14 years,JavaScript
+Canada,6 to 7 years,5 to 6 years,NA
+Germany,5 to 6 years,NA,NA
+Finland,15 to 16 years,1 to 2 years,C#; JavaScript; SQL
+Germany,15 to 16 years,6 to 7 years,Java; Python
+Sweden,13 to 14 years,8 to 9 years,Assembly; C; C++
+Canada,9 to 10 years,4 to 5 years,JavaScript
+United States,20 or more years,7 to 8 years,C#; SQL; TypeScript
+United States,7 to 8 years,3 to 4 years,C#; Java; Matlab; PHP; Python; SQL; VB.NET; VBA; Visual Basic 6
+United States,18 to 19 years,15 to 16 years,C#; JavaScript; SQL
+United States,3 to 4 years,Less than a year,NA
+Germany,9 to 10 years,4 to 5 years,C; C++; C#
+United States,11 to 12 years,8 to 9 years,JavaScript; Python
+United States,17 to 18 years,9 to 10 years,CoffeeScript; Elixir; JavaScript; PHP; SQL
+Russian Federation,3 to 4 years,NA,C#; Matlab; Python
+Spain,1 to 2 years,Less than a year,NA
+Sweden,19 to 20 years,6 to 7 years,C++; Java; JavaScript
+United States,7 to 8 years,7 to 8 years,NA
+United Kingdom,20 or more years,20 or more years,C#; SQL
+Ireland,20 or more years,20 or more years,C; Common Lisp; Elixir; Erlang; Java; JavaScript; SQL
+Chile,14 to 15 years,4 to 5 years,NA
+United States,7 to 8 years,4 to 5 years,JavaScript; PHP
+Tunisia,1 to 2 years,NA,NA
+Croatia,13 to 14 years,2 to 3 years,NA
+Canada,4 to 5 years,3 to 4 years,NA
+United States,20 or more years,20 or more years,C; C++; PHP; SQL
+Canada,20 or more years,12 to 13 years,C++; C#; Java; JavaScript; Python; SQL
+Canada,9 to 10 years,7 to 8 years,C#; Java; JavaScript; Objective-C; Swift
+Canada,20 or more years,20 or more years,Java
+United States,13 to 14 years,9 to 10 years,C#; JavaScript; SQL; TypeScript
+United States,17 to 18 years,7 to 8 years,C++; Python; R
+Germany,20 or more years,20 or more years,JavaScript; PHP; SQL
+United Kingdom,20 or more years,15 to 16 years,PHP
+Sweden,2 to 3 years,NA,Java; JavaScript; PHP; Python; TypeScript
+India,2 to 3 years,NA,JavaScript
+Germany,15 to 16 years,3 to 4 years,NA
+United States,4 to 5 years,1 to 2 years,C#; Java; JavaScript; SQL
+United States,4 to 5 years,NA,C; C++; C#; Java; JavaScript; Matlab; Objective-C; PHP; Python; SQL; Swift
+United States,8 to 9 years,7 to 8 years,C#; JavaScript; Python; SQL
+Nepal,4 to 5 years,1 to 2 years,C#; JavaScript; PHP; SQL
+United States,20 or more years,17 to 18 years,C#; JavaScript; SQL
+United States,13 to 14 years,10 to 11 years,C#; JavaScript; PHP; SQL; Swift; TypeScript
+United States,20 or more years,NA,C; C++; Java; Perl; Python; Swift
+Poland,10 to 11 years,NA,Clojure; Python; R; Scala; SQL
+Mexico,14 to 15 years,2 to 3 years,C#; Java; JavaScript
+United States,15 to 16 years,5 to 6 years,C#; Python; Ruby; SQL
+Pakistan,3 to 4 years,Less than a year,C++; C#; JavaScript; SQL
+United States,20 or more years,15 to 16 years,C#; JavaScript; SQL; TypeScript
+Slovak Republic,5 to 6 years,NA,C; Swift
+United States,9 to 10 years,5 to 6 years,C#; CoffeeScript; Java; JavaScript; Objective-C; Python; R; Rust; Swift
+Argentina,5 to 6 years,5 to 6 years,NA
+Finland,17 to 18 years,16 to 17 years,C#; JavaScript
+United States,14 to 15 years,9 to 10 years,Java; JavaScript; Perl; Scala
+Lithuania,20 or more years,20 or more years,C; C++; C#; Java; JavaScript; Objective-C; SQL; Swift; TypeScript
+United States,20 or more years,20 or more years,C; C#; JavaScript; SQL
+India,9 to 10 years,5 to 6 years,C#; JavaScript
+Belarus,7 to 8 years,NA,NA
+Poland,2 to 3 years,Less than a year,NA
+Poland,17 to 18 years,9 to 10 years,JavaScript; Ruby
+Russian Federation,20 or more years,5 to 6 years,C#; SQL
+Canada,17 to 18 years,8 to 9 years,NA
+Austria,10 to 11 years,NA,C#; Java
+United States,12 to 13 years,2 to 3 years,Objective-C; Swift
+United States,1 to 2 years,Less than a year,NA
+United States,3 to 4 years,3 to 4 years,NA
+El Salvador,9 to 10 years,1 to 2 years,JavaScript; SQL
+Finland,20 or more years,10 to 11 years,C#; JavaScript; SQL; VB.NET
+United States,20 or more years,10 to 11 years,Clojure
+United States,15 to 16 years,4 to 5 years,C; C++; JavaScript; SQL
+United Kingdom,4 to 5 years,NA,Python
+United Kingdom,5 to 6 years,3 to 4 years,JavaScript; PHP; Ruby
+Germany,3 to 4 years,2 to 3 years,JavaScript
+United States,1 to 2 years,1 to 2 years,SQL; VB.NET
+Brazil,4 to 5 years,3 to 4 years,C#; JavaScript; Python; SQL
+United States,3 to 4 years,NA,NA
+Brazil,19 to 20 years,13 to 14 years,NA
+United States,20 or more years,3 to 4 years,Python; SQL
+United States,20 or more years,16 to 17 years,NA
+United States,7 to 8 years,3 to 4 years,Java; Python
+Brazil,14 to 15 years,6 to 7 years,NA
+Czech Republic,2 to 3 years,NA,NA
+Netherlands,2 to 3 years,NA,NA
+United States,17 to 18 years,13 to 14 years,Elixir; JavaScript; PHP; Python; Ruby
+France,20 or more years,8 to 9 years,JavaScript; PHP; SQL; VBA
+Brazil,1 to 2 years,1 to 2 years,NA
+United States,4 to 5 years,1 to 2 years,C#; JavaScript; Ruby; SQL; TypeScript
+United States,10 to 11 years,7 to 8 years,NA
+Germany,9 to 10 years,1 to 2 years,NA
+India,4 to 5 years,1 to 2 years,NA
+Canada,2 to 3 years,Less than a year,Clojure; Python; VBA
+Sweden,17 to 18 years,9 to 10 years,NA
+United States,20 or more years,NA,Python
+United States,11 to 12 years,11 to 12 years,NA
+India,7 to 8 years,3 to 4 years,NA
+United States,4 to 5 years,2 to 3 years,C#; Java; JavaScript; SQL; TypeScript
+United States,9 to 10 years,4 to 5 years,JavaScript; TypeScript
+Germany,4 to 5 years,NA,NA
+Russian Federation,4 to 5 years,4 to 5 years,Java; TypeScript
+Canada,12 to 13 years,3 to 4 years,JavaScript; Python; SQL
+United States,6 to 7 years,3 to 4 years,C#
+Belgium,20 or more years,15 to 16 years,JavaScript; PHP; SQL
+United States,20 or more years,20 or more years,C++; C#; Java
+Croatia,10 to 11 years,5 to 6 years,C#; JavaScript; Python; SQL; TypeScript
+India,2 to 3 years,NA,NA
+United States,20 or more years,19 to 20 years,Java; JavaScript; SQL
+United States,20 or more years,20 or more years,C++; Java; Python
+United States,14 to 15 years,9 to 10 years,NA
+United States,6 to 7 years,NA,Assembly; C; C++; Objective-C; Python; Swift
+United Arab Emirates,19 to 20 years,5 to 6 years,C; C++; Objective-C; VBA
+United Kingdom,15 to 16 years,6 to 7 years,Java; JavaScript; Lua; SQL
+India,4 to 5 years,Less than a year,NA
+France,2 to 3 years,10 to 11 years,JavaScript; PHP
+United Kingdom,2 to 3 years,2 to 3 years,C#; JavaScript; SQL
+Israel,15 to 16 years,5 to 6 years,Java; JavaScript
+United Kingdom,4 to 5 years,4 to 5 years,C#; JavaScript; SQL
+United States,2 to 3 years,1 to 2 years,JavaScript; Ruby
+Brazil,20 or more years,20 or more years,C; C#
+Hungary,20 or more years,17 to 18 years,Groovy; Java; JavaScript; SQL
+India,9 to 10 years,4 to 5 years,Java; JavaScript; Scala
+United States,8 to 9 years,7 to 8 years,Java; JavaScript; SQL
+Sweden,8 to 9 years,7 to 8 years,NA
+Belarus,20 or more years,20 or more years,Assembly; C++; C#; F#; Java; JavaScript; PHP; SQL; TypeScript; VB.NET; VBA; Visual Basic 6
+United States,9 to 10 years,7 to 8 years,C#; JavaScript; Perl; Ruby; SQL
+United States,20 or more years,20 or more years,Clojure; JavaScript; Ruby
+Egypt,3 to 4 years,Less than a year,Java; JavaScript; Python
+Brazil,6 to 7 years,5 to 6 years,NA
+United Kingdom,20 or more years,NA,C++; C#; Java; JavaScript; Scala; SQL
+United States,10 to 11 years,7 to 8 years,C++; Java; JavaScript; Matlab; Python; SQL
+United States,20 or more years,8 to 9 years,Assembly; C; C++; Python
+United States,20 or more years,20 or more years,C#; JavaScript; SQL; VB.NET
+Albania,3 to 4 years,NA,Java; JavaScript; Matlab; SQL
+Israel,20 or more years,10 to 11 years,C; C++; C#; JavaScript; PHP; Python; SQL; VBA; Visual Basic 6
+United States,4 to 5 years,Less than a year,Java
+United States,4 to 5 years,Less than a year,NA
+United States,19 to 20 years,19 to 20 years,CoffeeScript; Java; JavaScript; Perl; PHP; Ruby
+Austria,20 or more years,20 or more years,C++; C#; PHP; SQL
+Romania,11 to 12 years,7 to 8 years,JavaScript; Ruby
+Slovenia,2 to 3 years,2 to 3 years,C#
+Estonia,16 to 17 years,13 to 14 years,NA
+Greece,14 to 15 years,14 to 15 years,NA
+Canada,12 to 13 years,10 to 11 years,C#; JavaScript; SQL; TypeScript
+United States,4 to 5 years,Less than a year,C; C++; CoffeeScript; Common Lisp; JavaScript; Objective-C; PHP; Python; Ruby; Swift; TypeScript
+Finland,17 to 18 years,15 to 16 years,JavaScript
+Canada,8 to 9 years,5 to 6 years,C#; SQL; VB.NET
+United States,9 to 10 years,7 to 8 years,NA
+Belarus,11 to 12 years,NA,C#; F#; JavaScript; SQL; TypeScript
+United States,6 to 7 years,2 to 3 years,Java; Python; Ruby; SQL
+United States,5 to 6 years,NA,JavaScript
+United States,12 to 13 years,6 to 7 years,C#; SQL; Visual Basic 6
+Czech Republic,5 to 6 years,1 to 2 years,C++; Matlab; Python
+Netherlands,9 to 10 years,8 to 9 years,C#; F#; JavaScript; PHP; SQL
+United States,19 to 20 years,18 to 19 years,C++; C#; Java
+Kenya,6 to 7 years,6 to 7 years,NA
+India,20 or more years,13 to 14 years,PHP; Python
+Australia,10 to 11 years,4 to 5 years,C#
+United States,9 to 10 years,2 to 3 years,C++; C#; Go; Java; JavaScript; Python; Ruby; SQL
+India,5 to 6 years,NA,NA
+Brazil,11 to 12 years,7 to 8 years,NA
+United States,20 or more years,20 or more years,Clojure; Java; JavaScript; Perl; Python; Scala; SQL
+Germany,13 to 14 years,4 to 5 years,NA
+Germany,11 to 12 years,6 to 7 years,Java; JavaScript
+United States,20 or more years,20 or more years,C; C++; C#; Clojure; JavaScript; SQL; TypeScript
+United States,20 or more years,17 to 18 years,JavaScript; Ruby
+Switzerland,9 to 10 years,4 to 5 years,C++; Matlab; Python
+United Kingdom,14 to 15 years,7 to 8 years,C++; JavaScript; PHP; Python; SQL
+United States,8 to 9 years,5 to 6 years,JavaScript; PHP; SQL
+United States,5 to 6 years,4 to 5 years,NA
+United States,19 to 20 years,9 to 10 years,NA
+United States,20 or more years,20 or more years,NA
+United States,20 or more years,20 or more years,NA
+Russian Federation,13 to 14 years,8 to 9 years,Groovy; Java; JavaScript; SQL
+Canada,10 to 11 years,5 to 6 years,C#; JavaScript; Python
+Belgium,7 to 8 years,NA,C++; Java; JavaScript; Matlab; PHP; Python; SQL
+Brazil,5 to 6 years,2 to 3 years,NA
+Netherlands,15 to 16 years,7 to 8 years,NA
+India,1 to 2 years,NA,NA
+United States,20 or more years,20 or more years,NA
+United States,10 to 11 years,3 to 4 years,NA
+Spain,11 to 12 years,7 to 8 years,CoffeeScript; JavaScript; Ruby
+United States,2 to 3 years,NA,NA
+United States,16 to 17 years,7 to 8 years,Java; JavaScript
+Brazil,5 to 6 years,3 to 4 years,NA
+Ukraine,5 to 6 years,1 to 2 years,Ruby; SQL
+United States,20 or more years,20 or more years,C; C++
+United States,15 to 16 years,10 to 11 years,C; C++; C#; JavaScript; Lua; Objective-C; Python; SQL; TypeScript
+United States,13 to 14 years,8 to 9 years,C; C#; Java; JavaScript; Python; SQL; VB.NET
+Germany,7 to 8 years,NA,C++; Perl; Python
+Mexico,12 to 13 years,5 to 6 years,JavaScript; PHP
+United Kingdom,14 to 15 years,2 to 3 years,C; C++; Python; Ruby
+United States,5 to 6 years,6 to 7 years,NA
+Germany,20 or more years,10 to 11 years,CoffeeScript; JavaScript; Ruby; SQL; Swift
+United States,4 to 5 years,NA,NA
+Japan,19 to 20 years,8 to 9 years,Clojure; Java; Lua; Rust
+United States,9 to 10 years,1 to 2 years,C#; JavaScript; PHP; SQL
+United States,9 to 10 years,3 to 4 years,C; C++; C#; JavaScript; Python; SQL; VB.NET
+United States,4 to 5 years,3 to 4 years,C#; Python; R; SQL; VBA
+United States,5 to 6 years,3 to 4 years,NA
+Slovenia,14 to 15 years,7 to 8 years,NA
+Brazil,7 to 8 years,3 to 4 years,NA
+Brazil,9 to 10 years,7 to 8 years,NA
+Germany,13 to 14 years,1 to 2 years,C++; Swift
+United States,20 or more years,18 to 19 years,JavaScript; TypeScript
+Netherlands,11 to 12 years,8 to 9 years,NA
+United States,16 to 17 years,12 to 13 years,CoffeeScript; JavaScript; PHP; Python; Ruby
+United States,9 to 10 years,7 to 8 years,NA
+United States,20 or more years,20 or more years,C#; JavaScript; SQL
+Albania,7 to 8 years,1 to 2 years,JavaScript; PHP; SQL
+United States,9 to 10 years,2 to 3 years,C++; Groovy; Java; Python; Ruby; Scala; SQL
+United Kingdom,2 to 3 years,NA,NA
+United States,12 to 13 years,9 to 10 years,NA
+United States,20 or more years,12 to 13 years,Objective-C; Ruby; Swift
+Netherlands,6 to 7 years,4 to 5 years,JavaScript; PHP; SQL
+Ireland,2 to 3 years,Less than a year,NA
+Czech Republic,15 to 16 years,10 to 11 years,NA
+United States,2 to 3 years,2 to 3 years,NA
+Canada,9 to 10 years,5 to 6 years,Groovy; Java; JavaScript; Objective-C; Perl
+United States,4 to 5 years,Less than a year,NA
+United Kingdom,15 to 16 years,10 to 11 years,C#; JavaScript; PHP; SQL
+Belgium,4 to 5 years,2 to 3 years,Java; SQL
+United States,20 or more years,8 to 9 years,C; C++; Python; R
+United States,3 to 4 years,NA,NA
+United States,7 to 8 years,NA,C; Java; JavaScript; PHP; SQL
+United States,14 to 15 years,10 to 11 years,C; JavaScript
+Poland,13 to 14 years,9 to 10 years,C#; JavaScript; SQL
+I prefer not to say,20 or more years,17 to 18 years,Erlang; JavaScript; Scala
+United States,7 to 8 years,3 to 4 years,C#; JavaScript; Python; TypeScript
+United States,12 to 13 years,12 to 13 years,Go; JavaScript; PHP; SQL
+United States,8 to 9 years,4 to 5 years,C#; JavaScript; SQL; VB.NET
+Italy,17 to 18 years,13 to 14 years,JavaScript; PHP; SQL
+Brazil,9 to 10 years,2 to 3 years,NA
+United States,18 to 19 years,8 to 9 years,C#; Java; JavaScript; Perl; PHP; Python; SQL
+United States,20 or more years,19 to 20 years,C++; C#
+Portugal,8 to 9 years,6 to 7 years,NA
+United States,12 to 13 years,5 to 6 years,Java; JavaScript; Python
+Sweden,20 or more years,8 to 9 years,Java; JavaScript; PHP; Scala; SQL
+France,11 to 12 years,10 to 11 years,NA
+Canada,20 or more years,20 or more years,NA
+United States,15 to 16 years,5 to 6 years,NA
+United States,20 or more years,12 to 13 years,C#; F#; SQL
+South Korea,5 to 6 years,NA,C
+United States,8 to 9 years,3 to 4 years,Elixir; Go; Java; Python; Ruby; Scala
+Brazil,8 to 9 years,5 to 6 years,C; JavaScript; SQL
+Pakistan,4 to 5 years,3 to 4 years,NA
+United Kingdom,9 to 10 years,4 to 5 years,Java; JavaScript; Matlab
+United States,20 or more years,19 to 20 years,C#; SQL
+Canada,3 to 4 years,NA,C#
+United States,4 to 5 years,1 to 2 years,Python; SQL
+United States,20 or more years,20 or more years,C++; Python; SQL
+Sri Lanka,14 to 15 years,5 to 6 years,C#; Java; JavaScript; Python; SQL; Visual Basic 6
+Switzerland,12 to 13 years,5 to 6 years,Java
+United States,8 to 9 years,NA,C; C++; Python
+United States,20 or more years,17 to 18 years,CoffeeScript; JavaScript; SQL
+Brazil,20 or more years,18 to 19 years,C; C++; Lua
+Slovak Republic,1 to 2 years,NA,NA
+Canada,12 to 13 years,4 to 5 years,Java; JavaScript; Python; SQL; TypeScript
+Tunisia,6 to 7 years,NA,C++; Java; JavaScript; PHP; SQL
+Turkey,10 to 11 years,6 to 7 years,Java; SQL
+Italy,13 to 14 years,11 to 12 years,NA
+Rwanda,3 to 4 years,NA,JavaScript; Python; Ruby; VB.NET
+United States,20 or more years,20 or more years,C++; C#; CoffeeScript; Go; JavaScript; Ruby; SQL; TypeScript
+Colombia,19 to 20 years,13 to 14 years,Assembly; C; C++; Go; JavaScript; Perl; PHP; SQL; TypeScript
+United States,16 to 17 years,13 to 14 years,C#; JavaScript; PHP; SQL; VB.NET
+United States,20 or more years,20 or more years,C#; R; SQL
+Bangladesh,1 to 2 years,NA,NA
+India,2 to 3 years,2 to 3 years,JavaScript; PHP; SQL
+India,14 to 15 years,3 to 4 years,Java; JavaScript; Matlab; R; SQL
+Romania,17 to 18 years,4 to 5 years,NA
+Germany,4 to 5 years,3 to 4 years,C#; Go; Java; JavaScript; Python; Scala
+Luxembourg,20 or more years,NA,Assembly; C; Erlang; Java; JavaScript
+Turkey,9 to 10 years,4 to 5 years,Java; SQL
+Germany,14 to 15 years,5 to 6 years,Clojure; Groovy; Java; Scala
+India,4 to 5 years,2 to 3 years,Go; JavaScript; Python; SQL; TypeScript
+United States,12 to 13 years,5 to 6 years,CoffeeScript; JavaScript; PHP; Ruby; SQL
+Israel,4 to 5 years,4 to 5 years,C#; Java; Python; Scala
+Israel,10 to 11 years,7 to 8 years,C#; Python; R; Scala; SQL
+I prefer not to say,14 to 15 years,9 to 10 years,C#; F#; Lua
+Canada,14 to 15 years,4 to 5 years,NA
+Chile,2 to 3 years,NA,Java
+India,7 to 8 years,4 to 5 years,NA
+Brazil,8 to 9 years,5 to 6 years,Elixir; Java; Python; SQL
+United States,14 to 15 years,9 to 10 years,Java; JavaScript; Python; R; SQL
+Canada,10 to 11 years,5 to 6 years,C++; C#
+Finland,12 to 13 years,10 to 11 years,C#; JavaScript; SQL; VB.NET
+United States,4 to 5 years,NA,NA
+United States,20 or more years,20 or more years,NA
+Germany,11 to 12 years,4 to 5 years,C
+Netherlands,2 to 3 years,NA,CoffeeScript; Java; JavaScript; PHP; Swift
+United States,11 to 12 years,3 to 4 years,Java; JavaScript
+United Kingdom,6 to 7 years,1 to 2 years,NA
+Pakistan,5 to 6 years,NA,NA
+United Kingdom,14 to 15 years,12 to 13 years,C; JavaScript; Objective-C; Swift
+Germany,19 to 20 years,NA,NA
+United States,6 to 7 years,2 to 3 years,C#; JavaScript; Python; TypeScript; VB.NET; Visual Basic 6
+United States,12 to 13 years,3 to 4 years,C++; C#; JavaScript; VB.NET
+Ireland,7 to 8 years,2 to 3 years,JavaScript; Python; R; SQL
+United States,6 to 7 years,2 to 3 years,C#
+Netherlands,5 to 6 years,2 to 3 years,C#; JavaScript; PHP; SQL; TypeScript
+United States,20 or more years,11 to 12 years,C#; JavaScript; PHP; SQL
+United States,5 to 6 years,3 to 4 years,NA
+United States,20 or more years,Less than a year,C#; SQL
+Turkey,5 to 6 years,2 to 3 years,NA
+United States,8 to 9 years,3 to 4 years,NA
+Belgium,10 to 11 years,4 to 5 years,C#
+United States,2 to 3 years,1 to 2 years,JavaScript; SQL; VBA
+Kazakhstan,2 to 3 years,NA,Java
+United States,6 to 7 years,2 to 3 years,JavaScript; Python; SQL; VB.NET
+Estonia,9 to 10 years,NA,Assembly; C; CoffeeScript; Java; JavaScript
+United States,19 to 20 years,16 to 17 years,Java; Python; SQL
+Brazil,2 to 3 years,NA,NA
+United States,16 to 17 years,10 to 11 years,JavaScript; Python; SQL
+United States,20 or more years,10 to 11 years,Java; PHP; Python; SQL
+United States,12 to 13 years,8 to 9 years,C#; JavaScript; SQL; TypeScript
+United States,20 or more years,14 to 15 years,NA
+Sweden,Less than a year,NA,NA
+United States,14 to 15 years,9 to 10 years,C; C++; SQL
+United States,20 or more years,20 or more years,C#; JavaScript; Scala; SQL
+Chile,8 to 9 years,NA,C; Java; Ruby; SQL
+Italy,14 to 15 years,10 to 11 years,JavaScript; PHP; SQL
+Spain,6 to 7 years,4 to 5 years,Groovy; Java; JavaScript
+Serbia,3 to 4 years,NA,C; C++; C#; JavaScript; PHP; SQL
+United States,20 or more years,20 or more years,NA
+United Kingdom,12 to 13 years,10 to 11 years,C#; JavaScript; SQL
+Russian Federation,20 or more years,11 to 12 years,C#; Go; Lua; TypeScript
+Germany,14 to 15 years,6 to 7 years,Python; SQL
+United States,4 to 5 years,3 to 4 years,NA
+United States,2 to 3 years,2 to 3 years,NA
+Ukraine,2 to 3 years,1 to 2 years,NA
+United States,8 to 9 years,3 to 4 years,JavaScript; PHP; Python; SQL
+United States,14 to 15 years,6 to 7 years,NA
+Bolivia,20 or more years,NA,NA
+Austria,20 or more years,20 or more years,C#; Java; JavaScript; SQL; TypeScript; VBA
+United States,2 to 3 years,1 to 2 years,NA
+Netherlands,20 or more years,2 to 3 years,NA
+United States,7 to 8 years,5 to 6 years,JavaScript; PHP; SQL
+Argentina,5 to 6 years,3 to 4 years,C#; Java; JavaScript; SQL
+Ireland,2 to 3 years,NA,C++; Java; Ruby
+Canada,9 to 10 years,5 to 6 years,JavaScript; Python; Ruby
+Vietnam,1 to 2 years,Less than a year,CoffeeScript; JavaScript; Rust
+United States,15 to 16 years,10 to 11 years,JavaScript; Python; SQL
+Canada,12 to 13 years,10 to 11 years,Java; JavaScript; Ruby
+United Kingdom,5 to 6 years,NA,JavaScript; Python; TypeScript
+United Kingdom,12 to 13 years,5 to 6 years,C++; Python
+Ireland,20 or more years,NA,Elixir; Objective-C; Ruby; Swift
+United States,4 to 5 years,2 to 3 years,Java; JavaScript; PHP; Python; SQL
+United States,9 to 10 years,5 to 6 years,C; C#; JavaScript; TypeScript
+Norway,9 to 10 years,2 to 3 years,C; C++; C#; Java; JavaScript; PHP; Python; SQL
+United States,15 to 16 years,13 to 14 years,C++; C#
+Canada,20 or more years,20 or more years,C++; C#; JavaScript; Perl; Python; SQL
+United States,2 to 3 years,1 to 2 years,R; SQL
+Canada,2 to 3 years,1 to 2 years,NA
+Israel,20 or more years,20 or more years,Python; SQL
+Romania,Less than a year,NA,NA
+India,2 to 3 years,NA,Assembly; C; C++; C#; Common Lisp; Go; Haskell; Java; Rust
+Spain,10 to 11 years,7 to 8 years,JavaScript; TypeScript
+Poland,13 to 14 years,2 to 3 years,Assembly; C; C++; C#; Python
+United States,5 to 6 years,5 to 6 years,Groovy; Java; Python; SQL
+Israel,5 to 6 years,4 to 5 years,NA
+United States,15 to 16 years,12 to 13 years,C#; JavaScript; PHP; SQL; TypeScript
+Somalia,2 to 3 years,NA,C; C++; PHP; Python; SQL
+United States,20 or more years,19 to 20 years,Assembly; C; C++; C#; Java; JavaScript; Lua; PHP; SQL; VB.NET; VBA; Visual Basic 6
+Croatia,3 to 4 years,1 to 2 years,C++; Common Lisp; Java; Python; Scala
+United States,16 to 17 years,2 to 3 years,NA
+Italy,20 or more years,7 to 8 years,C; PHP; Python; VB.NET; Visual Basic 6
+India,17 to 18 years,4 to 5 years,NA
+Canada,10 to 11 years,3 to 4 years,Go; JavaScript
+Brazil,19 to 20 years,10 to 11 years,NA
+Switzerland,9 to 10 years,3 to 4 years,C; Groovy; Java; JavaScript; Python
+India,15 to 16 years,5 to 6 years,NA
+United States,9 to 10 years,9 to 10 years,JavaScript; Python; SQL
+Canada,20 or more years,15 to 16 years,C#; Java; Perl; SQL; VBA
+Germany,16 to 17 years,NA,C#; Java; JavaScript; SQL; VB.NET; VBA; Visual Basic 6
+Israel,12 to 13 years,8 to 9 years,Java; JavaScript; Objective-C; SQL
+United States,20 or more years,20 or more years,Go; Objective-C
+Germany,14 to 15 years,1 to 2 years,Java; Matlab; SQL
+Mexico,17 to 18 years,16 to 17 years,C; C++; C#; Dart; Go; Java; JavaScript; Objective-C; Python; SQL; Swift
+Spain,8 to 9 years,2 to 3 years,NA
+United States,20 or more years,15 to 16 years,C++; JavaScript; Python
+Serbia,5 to 6 years,2 to 3 years,NA
+United Kingdom,11 to 12 years,7 to 8 years,C#; Common Lisp; JavaScript; SQL; Swift
+United Kingdom,15 to 16 years,9 to 10 years,C#; SQL
+Canada,2 to 3 years,NA,NA
+Netherlands,20 or more years,18 to 19 years,NA
+Germany,10 to 11 years,NA,NA
+United States,20 or more years,19 to 20 years,Java
+United States,6 to 7 years,4 to 5 years,C++; C#; Java
+Poland,5 to 6 years,3 to 4 years,C#
+Austria,8 to 9 years,3 to 4 years,C#; Java; JavaScript; Ruby; SQL
+New Zealand,5 to 6 years,1 to 2 years,C; Python
+Germany,14 to 15 years,7 to 8 years,Java; JavaScript; PHP
+United States,20 or more years,20 or more years,NA
+United Kingdom,20 or more years,7 to 8 years,CoffeeScript; JavaScript; Ruby
+United States,10 to 11 years,3 to 4 years,JavaScript; Python
+Canada,6 to 7 years,3 to 4 years,Java; JavaScript; Objective-C; Ruby
+Israel,4 to 5 years,4 to 5 years,C#; JavaScript; SQL
+United States,15 to 16 years,10 to 11 years,Java; JavaScript; Lua; PHP; Python; Ruby; SQL; TypeScript
+United States,20 or more years,20 or more years,JavaScript; PHP; SQL
+United States,12 to 13 years,9 to 10 years,Python
+Canada,19 to 20 years,19 to 20 years,C#; Java; JavaScript; PHP; SQL; TypeScript
+United States,14 to 15 years,5 to 6 years,C; C++; JavaScript; Python
+United States,8 to 9 years,Less than a year,Rust
+United States,9 to 10 years,3 to 4 years,NA
+Ukraine,9 to 10 years,1 to 2 years,NA
+Romania,4 to 5 years,NA,C; C++; C#; Java; JavaScript; Perl; PHP; Python; Swift
+Canada,20 or more years,18 to 19 years,JavaScript; Perl; PHP; Python
+United States,20 or more years,7 to 8 years,C; C++; JavaScript; PHP; SQL
+United Arab Emirates,3 to 4 years,4 to 5 years,C; Python
+United States,8 to 9 years,5 to 6 years,JavaScript; Scala
+Slovak Republic,20 or more years,20 or more years,NA
+United States,3 to 4 years,1 to 2 years,C; C++; C#; Python; Ruby
+Canada,5 to 6 years,NA,NA
+New Zealand,20 or more years,20 or more years,C; C++; JavaScript; Objective-C; PHP
+New Zealand,20 or more years,19 to 20 years,Java; JavaScript
+United States,9 to 10 years,1 to 2 years,NA
+Austria,7 to 8 years,2 to 3 years,C#; SQL
+Canada,10 to 11 years,1 to 2 years,C#; CoffeeScript; JavaScript
+Turkey,6 to 7 years,NA,C; C++; Java; JavaScript; Python
+United Kingdom,20 or more years,20 or more years,Assembly; C; C++; C#; JavaScript; PHP; TypeScript; VB.NET
+France,17 to 18 years,10 to 11 years,C; Matlab; Python
+Brazil,4 to 5 years,2 to 3 years,Java
+Greece,20 or more years,20 or more years,Assembly; C; C++; Java; JavaScript; PHP; SQL; VBA
+Canada,14 to 15 years,14 to 15 years,C#; JavaScript; Objective-C; SQL; Swift; VB.NET
+Germany,12 to 13 years,8 to 9 years,SQL
+Greece,2 to 3 years,NA,NA
+Germany,7 to 8 years,1 to 2 years,C; C#; Java
+United States,9 to 10 years,7 to 8 years,NA
+Saudi Arabia,7 to 8 years,Less than a year,Java; JavaScript; PHP; Python; SQL; Swift
+Canada,18 to 19 years,11 to 12 years,JavaScript; PHP; SQL
+United States,3 to 4 years,1 to 2 years,C#; JavaScript; PHP; SQL
+United States,8 to 9 years,6 to 7 years,NA
+United States,20 or more years,14 to 15 years,NA
+United States,20 or more years,16 to 17 years,Clojure; Java; PHP; Python; Scala; SQL
+Denmark,19 to 20 years,10 to 11 years,NA
+Colombia,8 to 9 years,5 to 6 years,JavaScript; PHP
+Germany,7 to 8 years,4 to 5 years,Java; JavaScript; PHP; SQL
+Canada,16 to 17 years,10 to 11 years,C#; JavaScript; SQL; VB.NET
+United States,20 or more years,20 or more years,Java; SQL
+United States,15 to 16 years,9 to 10 years,Java
+Spain,5 to 6 years,4 to 5 years,NA
+Czech Republic,3 to 4 years,NA,CoffeeScript; Java; JavaScript; PHP; SQL
+Canada,9 to 10 years,3 to 4 years,Java; JavaScript; PHP; SQL
+Pakistan,9 to 10 years,8 to 9 years,Assembly; C; C++; Java; JavaScript; Perl; PHP; Python; SQL
+Norway,20 or more years,19 to 20 years,C; C#; Python; R; Ruby; SQL; VBA
+Serbia,4 to 5 years,3 to 4 years,Java; JavaScript; TypeScript
+United States,15 to 16 years,4 to 5 years,JavaScript; PHP
+Romania,2 to 3 years,NA,NA
+United States,8 to 9 years,2 to 3 years,Python
+United States,14 to 15 years,5 to 6 years,C++; Python
+India,6 to 7 years,1 to 2 years,C; C++; Java; JavaScript; PHP; Python; SQL
+United States,4 to 5 years,2 to 3 years,NA
+United States,19 to 20 years,16 to 17 years,C#; JavaScript; R; Ruby; Scala; SQL
+United States,6 to 7 years,3 to 4 years,Java; JavaScript; SQL
+United States,20 or more years,17 to 18 years,C; C++; R
+United States,8 to 9 years,1 to 2 years,C#; Java; JavaScript
+Portugal,4 to 5 years,2 to 3 years,C#; JavaScript
+Canada,7 to 8 years,4 to 5 years,C; Groovy; Java; JavaScript; Perl; Python; Scala; SQL
+Canada,9 to 10 years,5 to 6 years,NA
+Canada,11 to 12 years,8 to 9 years,PHP; SQL
+United Kingdom,15 to 16 years,7 to 8 years,C; C++; C#; JavaScript; PHP; Python
+United Kingdom,7 to 8 years,NA,C; C++; Java; JavaScript; PHP; Python
+United States,18 to 19 years,17 to 18 years,C#
+Canada,8 to 9 years,3 to 4 years,Groovy; Ruby; SQL
+United States,11 to 12 years,8 to 9 years,C; JavaScript; Lua; SQL
+Iran,20 or more years,9 to 10 years,Java; JavaScript; PHP; SQL
+United States,8 to 9 years,NA,C++; JavaScript
+Germany,20 or more years,16 to 17 years,C++; C#; SQL
+Russian Federation,12 to 13 years,3 to 4 years,NA
+United States,20 or more years,19 to 20 years,C#; JavaScript; PHP; Python; SQL
+United Kingdom,9 to 10 years,4 to 5 years,C#; JavaScript; SQL; TypeScript; VB.NET
+Australia,14 to 15 years,8 to 9 years,Assembly; C; C++; Haskell; JavaScript; Rust
+Germany,13 to 14 years,10 to 11 years,NA
+Spain,20 or more years,9 to 10 years,Java; JavaScript; SQL
+India,4 to 5 years,3 to 4 years,Java; JavaScript
+Bangladesh,3 to 4 years,NA,NA
+United States,8 to 9 years,2 to 3 years,Go; Groovy; Java
+Germany,6 to 7 years,NA,C++; C#
+Denmark,13 to 14 years,NA,C#; Haskell; Rust
+Colombia,9 to 10 years,8 to 9 years,C#; JavaScript; PHP
+Sweden,13 to 14 years,NA,C; C++; C#
+Colombia,7 to 8 years,3 to 4 years,NA
+Poland,4 to 5 years,NA,Assembly; C; Common Lisp
+Brazil,8 to 9 years,2 to 3 years,NA
+Lithuania,13 to 14 years,NA,C#
+United Kingdom,20 or more years,17 to 18 years,NA
+Poland,4 to 5 years,NA,NA
+United Kingdom,20 or more years,12 to 13 years,NA
+Sweden,10 to 11 years,5 to 6 years,JavaScript; PHP; Ruby
+Argentina,14 to 15 years,10 to 11 years,Java
+Germany,10 to 11 years,2 to 3 years,C++; JavaScript; Python
+Finland,9 to 10 years,4 to 5 years,NA
+Sweden,16 to 17 years,8 to 9 years,NA
+United States,14 to 15 years,4 to 5 years,Elixir; Java; JavaScript; Ruby; Rust; SQL
+United States,14 to 15 years,NA,C++; Common Lisp; Python
+United States,14 to 15 years,6 to 7 years,C; C++; Python
+United States,6 to 7 years,6 to 7 years,C#; JavaScript; Python; SQL
+Greece,16 to 17 years,13 to 14 years,Elixir; JavaScript; PHP
+United States,4 to 5 years,NA,Assembly; C; C++; Common Lisp; Clojure; Erlang; Go; Haskell; Java; JavaScript; Python; R
+United States,16 to 17 years,16 to 17 years,C; C#; Visual Basic 6
+United States,13 to 14 years,Less than a year,NA
+United Kingdom,12 to 13 years,11 to 12 years,C#; JavaScript; SQL
+United States,4 to 5 years,2 to 3 years,Java; JavaScript; Python
+Poland,12 to 13 years,2 to 3 years,NA
+United States,11 to 12 years,8 to 9 years,Java; JavaScript; SQL
+Ethiopia,5 to 6 years,3 to 4 years,NA
+United States,20 or more years,20 or more years,NA
+United States,19 to 20 years,6 to 7 years,NA
+United States,14 to 15 years,8 to 9 years,C++; JavaScript; PHP; SQL
+Germany,20 or more years,NA,C#
+Germany,Less than a year,NA,NA
+United States,16 to 17 years,9 to 10 years,NA
+United States,12 to 13 years,4 to 5 years,Assembly; C; C++; Java; Matlab; Python
+United States,Less than a year,Less than a year,NA
+Romania,7 to 8 years,4 to 5 years,JavaScript; PHP
+Italy,3 to 4 years,NA,NA
+United Kingdom,2 to 3 years,NA,JavaScript; PHP; Python
+Brazil,16 to 17 years,10 to 11 years,NA
+United Kingdom,10 to 11 years,10 to 11 years,C#
+United States,20 or more years,20 or more years,Go; JavaScript; PHP; Python; Ruby; SQL
+Canada,7 to 8 years,3 to 4 years,C; C++; C#; Java; JavaScript; Matlab; Perl; PHP; Python; SQL
+Canada,5 to 6 years,1 to 2 years,Java; JavaScript; PHP; Ruby
+Germany,12 to 13 years,2 to 3 years,Scala
+Spain,4 to 5 years,Less than a year,C++; Java
+United States,9 to 10 years,4 to 5 years,R; SQL; VBA
+Switzerland,20 or more years,10 to 11 years,NA
+United States,20 or more years,20 or more years,Java; JavaScript; Ruby; Scala
+United States,4 to 5 years,NA,Assembly; C; C++; C#; Java; Python
+United States,9 to 10 years,3 to 4 years,C#; JavaScript; Python; SQL; TypeScript; VB.NET
+Russian Federation,17 to 18 years,11 to 12 years,Python
+Poland,3 to 4 years,1 to 2 years,C#; Java; SQL; VB.NET
+United States,12 to 13 years,7 to 8 years,C#; JavaScript
+Iran,20 or more years,16 to 17 years,C; C++; C#; Erlang; Go; Java; Rust; SQL; TypeScript
+Macedonia,18 to 19 years,8 to 9 years,NA
+Sweden,9 to 10 years,Less than a year,NA
+United States,6 to 7 years,2 to 3 years,Java; Matlab; Python; R
+Belgium,14 to 15 years,8 to 9 years,NA
+Canada,20 or more years,NA,C; C++; Perl; SQL
+Canada,6 to 7 years,7 to 8 years,NA
+Serbia,7 to 8 years,4 to 5 years,C#; Java; JavaScript; TypeScript
+France,1 to 2 years,NA,C; C#; Python; Ruby
+Poland,9 to 10 years,5 to 6 years,NA
+Sweden,20 or more years,3 to 4 years,C#; JavaScript; Python; TypeScript
+United States,20 or more years,20 or more years,C; C++; Java; Perl; Python; SQL
+United States,20 or more years,17 to 18 years,C#; JavaScript; SQL; TypeScript
+United States,11 to 12 years,4 to 5 years,Java; SQL
+United States,5 to 6 years,1 to 2 years,NA
+Bulgaria,7 to 8 years,3 to 4 years,Java; Python; R
+United States,4 to 5 years,NA,C; CoffeeScript; JavaScript; Julia; Python
+Brazil,4 to 5 years,4 to 5 years,C#; JavaScript; SQL
+Mexico,20 or more years,12 to 13 years,Java; JavaScript; Lua; Ruby; SQL
+Brazil,8 to 9 years,5 to 6 years,Groovy; Java; JavaScript; TypeScript
+Denmark,1 to 2 years,NA,C++; C#; Java; JavaScript; Lua
+Switzerland,1 to 2 years,NA,Haskell; PHP
+United States,2 to 3 years,1 to 2 years,JavaScript; Objective-C; PHP; SQL; Swift
+Hungary,7 to 8 years,NA,C#; Java; JavaScript; PHP; Python; SQL; TypeScript
+United States,14 to 15 years,8 to 9 years,C#; JavaScript; Lua; Python; R; SQL
+Australia,4 to 5 years,NA,NA
+Portugal,20 or more years,20 or more years,C; C++; Haskell; Java; JavaScript; Python; SQL
+Canada,1 to 2 years,NA,Haskell; Java; JavaScript; Matlab; Perl; PHP; Python; SQL
+Canada,7 to 8 years,NA,C++; Java; JavaScript; Python
+United States,13 to 14 years,5 to 6 years,Java; Ruby; Scala
+United States,9 to 10 years,3 to 4 years,C#; JavaScript; SQL; TypeScript

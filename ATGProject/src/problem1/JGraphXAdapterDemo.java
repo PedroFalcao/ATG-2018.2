@@ -22,8 +22,6 @@ package problem1;
 import com.mxgraph.layout.*;
 import com.mxgraph.swing.*;
 
-import problema2.ProblemGraphBuilder;
-
 import org.jgrapht.*;
 import org.jgrapht.ext.*;
 import org.jgrapht.graph.*;
@@ -69,7 +67,7 @@ public class JGraphXAdapterDemo
     public void init()
     {
         // create a JGraphT graph
-    	ProblemGraphBuilder pgb = new ProblemGraphBuilder();
+    	ProblemGraphBuilder1 pgb = new ProblemGraphBuilder1();
 		Graph<String, DefaultEdge> graph = pgb.createGraph();
 //        ListenableGraph<String, DefaultEdge> g =
 //            new DefaultListenableGraph<>(new DefaultDirectedGraph<>(DefaultEdge.class));

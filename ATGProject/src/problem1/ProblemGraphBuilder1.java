@@ -1,8 +1,6 @@
 package problem1;
 
-import java.util.Map;
-import java.util.Set;
-
+import java.util.ArrayList;
 import org.jgrapht.*;
 import org.jgrapht.graph.*;
 
@@ -12,26 +10,23 @@ import org.jgrapht.graph.*;
  * @author Pedro Falcao
  *
  */
-public class ProblemGraphBuilder {
-	Map<String,Integer> elements;
+public class ProblemGraphBuilder1 {
+	ArrayList<Subject> elements;
 	
-	public ProblemGraphBuilder() {
+	public ProblemGraphBuilder1() {
 		this.elements = SourceAdapter1.instantiate();
 	}
 	
 	ListenableGraph<String, DefaultEdge> createGraph() {
 		ListenableGraph<String, DefaultEdge> graph = new DefaultListenableGraph<>(new DefaultUndirectedGraph<>(DefaultEdge.class));
 		try {
-			Set<String> keys = elements.keySet();
-			for (String str : keys) {
-				graph.addVertex(str);
+			for (Subject s : elements) {
+				graph.addVertex(s.getDenomination());
 			}
-			for (String key : keys) {
-				for (String otherKey : keys) {
-					if (!key.equals(otherKey)) {
-						if (elements.get(key).equals(elements.get(otherKey))) {
-							graph.addEdge(key, otherKey);
-						}
+			for (Subject subj : elements) {
+				for (Subject otherSubj : elements) {
+					if (subj.getExperience() == otherSubj.getExperience() && !subj.getDenomination().equals(otherSubj.getDenomination())) {
+						graph.addEdge(subj.getDenomination(), otherSubj.getDenomination());
 					}
 				}
 			}

@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * Esta classe serve para organizar uma linha lida do CSV sem nenhuma formatação específica.
  * 
- * @author pedro
+ * @author Pedro Falcao
  *
  */
 public class GenericSubject {
@@ -25,11 +25,11 @@ public class GenericSubject {
 	@Override
 	public String toString() {
 		String ret = "";
-		ret.concat("===== Subject ===============\n");
+		ret = ret.concat("===== Subject ===============\n");
 		for (int i = 0; i < info.size(); i++) {
-			ret.concat(info.get(i) + "\n");
+			ret = ret.concat(info.get(i) + "\n");
 		}
-		ret.concat("=============================\n");
+		ret = ret.concat("=============================\n");
 		return ret;
 	}
 

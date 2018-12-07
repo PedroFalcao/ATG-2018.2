@@ -9,11 +9,11 @@ import org.jgrapht.graph.DefaultEdge;
  * @author Pedro Falcao
  *
  */
-public class Main {
+public class Main1 {
 	public static void main(String[] args) {
-		ProblemGraphBuilder pgb = new ProblemGraphBuilder();
+		ProblemGraphBuilder1 pgb = new ProblemGraphBuilder1();
 		Graph<String, DefaultEdge> graph = pgb.createGraph();
 		System.out.println(graph);
-		System.out.println(graph.edgesOf("United States"));
+		System.out.println(graph.edgesOf("Desenvolvedor 1"));
 	}
 }
