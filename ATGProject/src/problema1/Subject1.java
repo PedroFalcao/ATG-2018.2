@@ -1,4 +1,4 @@
-package problema1alt;
+package problema1;
 
 /**
  * Esta classe apenas serve para organizar as informações recebidas do arquivo CSV.

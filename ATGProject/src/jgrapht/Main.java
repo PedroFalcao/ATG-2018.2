@@ -10,15 +10,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		try {
-<<<<<<< HEAD
+
 			CSVFile file = CSVReader.read(FILE_ADDRESS);
-=======
-			// Workaround para descobrir o endereço do arquivo CSV.
-			String[] vazio = new String[0];
-			GenericSubject g = new GenericSubject(vazio);
-			
-			CSVFile file = CSVReader.read(g.getClass().getClassLoader().getResource("").getPath()+"ATG.csv");
->>>>>>> 8f7d61ffced8490bd579aff0a4df256872259a3a
+
 			ArrayList<GenericSubject> subjects = new ArrayList<GenericSubject>();
 			System.out.println("--======================================================================--");
 			for (int i = 0; i < file.getYSize(); i++) {

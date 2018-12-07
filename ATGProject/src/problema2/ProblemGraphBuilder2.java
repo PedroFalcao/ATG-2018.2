@@ -1,7 +1,6 @@
 package problema2;
 
 import java.util.ArrayList;
-import org.jgrapht.*;
 import org.jgrapht.graph.*;
 
 /**
@@ -17,16 +16,17 @@ public class ProblemGraphBuilder2 {
 		this.elements = SourceAdapter2.instantiate();
 	}
 	
-	ListenableGraph<String, DefaultEdge> createGraph() {
-		ListenableGraph<String, DefaultEdge> graph = new DefaultListenableGraph<>(new DefaultUndirectedGraph<>(DefaultEdge.class));
+	SimpleDirectedWeightedGraph<String, DefaultWeightedEdge> createGraph() {
+		SimpleDirectedWeightedGraph<String, DefaultWeightedEdge>  graph = new SimpleDirectedWeightedGraph<String, DefaultWeightedEdge>(DefaultWeightedEdge.class);
 		try {
 			for (Subject2 s : elements) {
 				graph.addVertex(s.getDenomination());
 			}
 			for (Subject2 subj : elements) {
 				for (Subject2 otherSubj : elements) {
-					if (subj.getJSExperience() >= otherSubj.getJSExperience() && !subj.getDenomination().equals(otherSubj.getDenomination())) {
-						graph.addEdge(subj.getDenomination(), otherSubj.getDenomination());
+					if (subj.getJSExperience() < otherSubj.getJSExperience()) {
+						DefaultWeightedEdge weighted_edge = graph.addEdge(subj.getDenomination(), otherSubj.getDenomination());
+			            graph.setEdgeWeight(weighted_edge, (otherSubj.getJSExperience() - subj.getJSExperience()));
 					}
 				}
 			}
@@ -36,3 +36,4 @@ public class ProblemGraphBuilder2 {
 		return graph;
 	}
 }
+

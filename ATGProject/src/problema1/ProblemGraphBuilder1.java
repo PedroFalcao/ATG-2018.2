@@ -1,4 +1,4 @@
-package problema1alt;
+package problema1;
 
 import java.util.ArrayList;
 import org.jgrapht.graph.*;

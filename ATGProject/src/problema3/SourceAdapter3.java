@@ -9,7 +9,7 @@ import jgrapht.*;
 
 
 /**
- * Esta classe adapta as informações recebidas na leitura do arquivo CSV de forma a serem usadas na construção do grafo. Isto inclui filtrar as colunas não-relevantes e organizar os vértices como sendo os países, no lugar de serem os usuários.
+ * Esta classe adapta as informacoes recebidas na leitura do arquivo CSV de forma a serem usadas na construcao do grafo. Isto inclui filtrar as colunas nao-relevantes e organizar os vertices como sendo os paises, no lugar de serem os usuarios.
  * 
  * @author Pedro Falcao
  *
@@ -18,7 +18,7 @@ public class SourceAdapter3{
 	private final static int LINE_SIZE = 4; // Essa constante aponta quantas colunas os dados tem, no CSV.  
 	private final static int USEFUL_DATA_INDEX = 0; // Indica em que coluna do CSV a informacao esta.
 	private final static int USEFUL_DATA_INDEX_2 = 3;
-	private final static String FILE_ADDRESS = "src\\ATG.csv"; // Vai indicar o endereco do arquivo CSV de onde sera extraida a informacao.
+	private final static String FILE_ADDRESS = (System.getProperty("os.name").equals("Linux")? "src/ATG.csv" : "src\\ATG.csv"); // Vai indicar o endereco do arquivo CSV de onde sera extraida a informacao.
 	
 	
 	// Esse metodo nao eh muito intuitivo, mas ele basicamente pega do CSV apontado pelo endereco da constante FILE_ADDRESS a informacao que estiver na posicao USEFUL_DATA_INDEX e coloca em um objeto "Subject" para ser mais facilmente trabalhado. 
@@ -59,4 +59,3 @@ public class SourceAdapter3{
 	}
 
 }
-
