@@ -1,7 +1,7 @@
 package problem1;
 
 /**
- * Esta classe apenas serve para organizar as informações recebidas do arquivo CSV.
+ * Esta classe apenas serve para organizar as informacoes recebidas do arquivo CSV.
  * 
  * @author Pedro Falcao
  *

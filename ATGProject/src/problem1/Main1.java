@@ -4,7 +4,7 @@ import org.jgrapht.Graph;
 import org.jgrapht.graph.DefaultEdge;
 
 /**
- * Esta classe é usada apenas para analisar os grafos gerados pela linha de comando.
+ * Esta classe e usada apenas para analisar os grafos gerados pela linha de comando.
  * 
  * @author Pedro Falcao
  *
